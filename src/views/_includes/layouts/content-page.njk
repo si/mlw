@@ -1,0 +1,11 @@
+---
+layout: base
+---
+
+{% if image %}
+    {% include "banner.njk" %}
+{% endif %}
+
+<h1>{{ title }}</h1>
+
+{{ content | safe }}
