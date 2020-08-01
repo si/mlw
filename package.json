@@ -1,5 +1,5 @@
 {
-  "name": "eleventy-sample",
+  "name": "make-life-work",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -15,7 +15,7 @@
     "build": "run-s clean styles:prod eleventy:default --print-label"
   },
   "keywords": [],
-  "author": "",
+  "author": "si@jobling.com",
   "license": "ISC",
   "devDependencies": {
     "@11ty/eleventy": "^0.9.0",
