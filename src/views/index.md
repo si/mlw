@@ -8,9 +8,10 @@ title: Make Life Work podcast
 I am Si Jobling – [@Si on Twitter](https://twitter.com/Si) – and, on this podcast, I talk to a selection of good friends from around the tech community about how they balance work, life, health and side projects.
 
 ## 🗓️ Schedule
-Season 1, 2 & 3 have now concluded.
 
-**Season 4 will return September 2020**
+Seasons 1-9 have now concluded.
+
+**We are currently taking a break to focus on another podcast project - watch this space for more**
 
 ## ✉️ Keep Updated 
 
