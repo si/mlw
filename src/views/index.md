@@ -3,7 +3,7 @@ layout: content-page
 image: /images/uploads/home.jpeg
 title: Make Life Work podcast
 ---
-## Podcast talking to people from around tech about balancing work, life and side projects.
+## Podcast about balancing work, life and side projects.
 
 I am Si Jobling – [@Si on Twitter](https://twitter.com/Si) – and, on this podcast, I talk to a selection of good friends from around the tech community about how they balance work, life, health and side projects.
 
@@ -21,4 +21,4 @@ Seasons 1-9 have now concluded.
 
 ## ❤️ Support
 
-[Donate to Mind](https://www.justgiving.com/jurassicsi) or [Become a Patreon](https://www.patreon.com/makelifework)
+[Become a Patreon](https://www.patreon.com/makelifework)
