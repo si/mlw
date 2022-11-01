@@ -1,0 +1,25 @@
+---
+title: "Making Dress Circle with Dom Hodgson"
+date: "2022-03-07"
+categories: 
+  - "podcast"
+tags: 
+  - "community"
+  - "dom-hodgson"
+  - "musical"
+  - "season-8"
+  - "ukdisdad"
+---
+
+**The one when Si talks to Dom for the third time about running 46 miles, merge conflicts with his wife and what defines a stage show.**
+
+Dom loves joining us and we love having him along, especially when he's got another new project to talk about and how he's fit it around his family lifestyle.
+
+This time, he's been working on an exciting idea for show-goers that's almost ready for the public but currently being alpha tested.
+
+## Show Notes
+
+- [Dress Circle](https://www.dresscircle.co.uk/)
+- [DomainLore](https://domainlore.uk) for domain auctions
+- [Site44](https://www.site44.com) for hosting quick Dropbox websites
+- [@TheHodge](https://twitter.com/TheHodge) on Twitter
