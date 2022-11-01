@@ -1,0 +1,11 @@
+    <ul class="c-nav__list">
+    {% for post in collections.seasons %}
+        <li>
+            {% if page.url == post.url %}
+            {{ post.fileSlug | capitalize }}
+            {% else %}
+            <a href="{{ post.url }}">{{ post.fileSlug | capitalize }}</a>
+            {% endif %}
+        </li>
+    {% endfor %}
+    </ul>
