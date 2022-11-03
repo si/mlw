@@ -10,7 +10,6 @@ tags:
   - "season-9"
   - "writing"
 episode: S09E06
-date: 2022-08-08
 enclosure: https://pinecast.com/listen/06b06660-aaff-41ad-aff1-73e4f2375c57.mp3
 acastEpisode: 
 spotifyLink: 
