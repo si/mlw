@@ -9,6 +9,19 @@ tags:
   - "illustration"
   - "season-9"
   - "writing"
+episode: S09E06
+date: 2022-08-08
+enclosure: https://pinecast.com/listen/06b06660-aaff-41ad-aff1-73e4f2375c57.mp3
+acastEpisode: 
+spotifyLink: 
+googlePodcastsLink: 
+applePodcastsLink: 
+amazonLink: 
+ogImage: "/assets/img/social-media/cole-henley.jpg"
+permalink: "/cole-henley/"
+intro: The one when Si talks to Cole about the pioneering days of the Web, getting through a serious health scare and drunkenly offering to illustrate Michael Rosen's book.
+photo: "/assets/img/people/cole-henley.jpg"
+
 ---
 
 **The one when Si talks to Cole about the pioneering days of the Web, getting through a serious health scare and drunkenly offering to illustrate Michael Rosen's book.**
