@@ -11,6 +11,9 @@ tags:
   - "leadership"
   - "mike-street"
   - "on-the-side"
+episode: S03E05
+enclosure: https://pinecast.com/listen/174945ee-61d6-457a-a57e-66a5c528f6b4.m4a
+
 ---
 
 [Mike Street](https://www.mikestreety.co.uk/) is CTO at Brighton digital agency, [Liquid Light](https://www.liquidlight.co.uk/). In his role, he has some fascinating insights and thoughts in a leadership role, found a reasonable balance between work and home life through lockdown and even had time to conjure up some side projects amongst some fitness. The perfect guest for this podcast.

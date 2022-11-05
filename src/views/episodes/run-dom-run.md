@@ -10,6 +10,9 @@ tags:
   - "home-edition"
   - "martins-house-hospice"
   - "on-the-side"
+episode: S03E03
+enclosure: https://pinecast.com/listen/a5948b93-c187-4f81-aafd-cf434d201530.m4a
+
 ---
 
 This week, Si invites Dom Hodgson back to the podcast to talk about how he's been coping through lockdown with his family along with all the side projects he's got going on.

@@ -11,6 +11,9 @@ tags:
   - "home-edition"
   - "product-design"
   - "women-in-tech"
+episode: S03E04
+enclosure: https://pinecast.com/listen/54edb925-723a-4d5c-8aeb-5cf71c563123.m4a
+
 ---
 
 This week, I've invited along [Alex Brooke](https://alexy.me) for a little chat on how she's been getting on with the lockdown.
