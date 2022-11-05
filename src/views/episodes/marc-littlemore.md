@@ -15,6 +15,9 @@ tags:
   - "season-2"
   - "sepsis"
   - "young-adult-fiction"
+episode: S02E04
+enclosure: https://pinecast.com/listen/48d20084-c6b2-4e95-921f-21f0f7f6a3f2.m4a
+
 ---
 
 In the _ninth_ episode of the [Make Life Work Podcast](https://sijobling.com/makelifework/), Si is joined by **Marc Littlemore** \- Software Engineering Tech Lead at the BBC in Manchester. Marc and Si share many stories through the years such as writing code on classic computers, leading teams in tech, producing house music podcasts and writing fictional books with their wives.

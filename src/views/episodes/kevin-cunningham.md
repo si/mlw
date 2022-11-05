@@ -11,6 +11,9 @@ tags:
   - "on-the-side"
   - "season-2"
   - "spin-up"
+episode: S02E02
+enclosure: https://pinecast.com/listen/0a7b7105-c47b-4b1e-8f4e-ffa2d3df11a9.m4a
+
 ---
 
 In the _seventh_ episode of the [Make Life Work podcast](https://sijobling.com/makelifework/), Si talks to **Kevin Cunningham** \- a freelance web developer in Brighton UK.

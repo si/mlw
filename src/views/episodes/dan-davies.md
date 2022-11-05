@@ -11,6 +11,9 @@ tags:
   - "parenting"
   - "season-2"
   - "writing"
+episode: S02E05
+enclosure: https://pinecast.com/listen/ee80d798-064d-4cb2-80f6-a2950a6825de.m4a
+
 ---
 
 In the _tenth_ episode of the [Make Life Work podcast](https://sijobling.com/makelifework/), Si talks to **Dan Davies** - a web designer from North Wales. Dan reminisces over 80s childhoods, jumping between agency and freelance roles and bringing up two kids in a connected world.
