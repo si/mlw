@@ -10,6 +10,9 @@ tags:
   - "parenting"
   - "season-7"
   - "usa"
+episode: S07E05
+enclosure: https://pinecast.com/listen/26d5f8b5-c4f6-45b4-bfd7-4b64d1927588.mp3
+
 ---
 
 **The one when Si talks to Mubs about football side projects starting it all off, now making a full time job out of Founderpath.**

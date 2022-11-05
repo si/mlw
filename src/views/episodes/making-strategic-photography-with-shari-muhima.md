@@ -11,6 +11,9 @@ tags:
   - "shari-muhima"
   - "skillshare"
   - "women-in-tech"
+episode: S07E01
+enclosure: https://pinecast.com/listen/561c16c1-0f7f-4948-84ed-f7d5eecd3a30.mp3
+
 ---
 
 Shari Muhima is a brand strategist, originally from the Democratic Republic of Congo, now living in London UK. Her career journey is a brilliant example of how to find your passions despite all the difficulties thrown your way. She's also a regular contributor in our [On The Side Slack community](http://ontheside.network/) so Si was keen to invite on to the podcast to tell us her stories.

@@ -11,6 +11,9 @@ tags:
   - "publishing"
   - "season-7"
   - "writing"
+episode: S07E03
+enclosure: https://pinecast.com/listen/3b6cbdfc-75d8-4575-83cd-cb51857f4c13.mp3
+
 ---
 
 Dan Moore is Head of DevRel at [FusionAuth](https://fusionauth.io) – SaaS provider in user authentication – living in Boulder, Colorado USA with his wife and small children.
