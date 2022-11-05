@@ -9,6 +9,9 @@ tags:
   - "on-the-side"
   - "season-1"
   - "weeknotes"
+episode: S01E04
+enclosure: https://pinecast.com/listen/cbfb00aa-3a47-4d2a-9829-babb3ee23d74.mp3
+
 ---
 
 In the fourth episode of the [Make Life Work podcast](https://sijobling.com/makelifework/), Si talks to **Dan Blundell** about balancing his customer-focused responsibilities working in shared local government digital services around family commitments, a post-grad course and spin-off side projects.

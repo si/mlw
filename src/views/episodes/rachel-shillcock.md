@@ -13,6 +13,9 @@ tags:
   - "rachilli"
   - "season-1"
   - "women-in-tech"
+episode: S01E03
+enclosure: https://pinecast.com/listen/943744d5-3593-43c7-a32c-777f7c3685d5.mp3
+
 ---
 
 In the third episode of the [Make Life Work podcast](https://sijobling.com/makelifework/) about balancing work, life and side projects, I have a chat with **Rachel Shillcock** about the evolution of her freelance design career, the challenges she's faced with her health and giving back to the community.
