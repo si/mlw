@@ -18,6 +18,9 @@ eleventyComputed:
 		{{ intro | safe }}
 	</div>
 	<div class="podcastLinks">
+		<audio controls>
+  			<source src="{{ enclosure }}" type="audio/mpeg">
+		</audio>
 		<p>Listen to <strong>{{ episode }}</strong> on:</p>
 		<div>
 			{%- if applePodcastsLink %}<a href="{{ applePodcastsLink }}" class="imageLink"><img itemprop="image" src="/assets/img/podcasts/cta/applepodcasts-badge.svg" width="167" height="44" alt="Listen to {{ episode }} on Apple Podcasts"></a>{%- endif %}
