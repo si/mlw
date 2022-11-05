@@ -12,10 +12,10 @@ tags:
 episode: S09E06
 enclosure: https://pinecast.com/listen/06b06660-aaff-41ad-aff1-73e4f2375c57.mp3
 acastEpisode: 
-spotifyLink: 
-googlePodcastsLink: 
-applePodcastsLink: 
-amazonLink: 
+spotifyLink: https://open.spotify.com/episode/0HVSpvUtjpdhPBDfUAGoH4
+googlePodcastsLink: https://podcasts.google.com/feed/aHR0cHM6Ly9zaWpvYmxpbmcuY29tL2ZlZWQvcG9kY2FzdC9tYWtlLWxpZmUtd29yaw/episode/aHR0cHM6Ly9tYWtlbGlmZXdvcmtwb2RjYXN0LmNvbS8_cD03MTQ5?sa=X&ved=0CAUQkfYCahcKEwiYu8-4spT7AhUAAAAAHQAAAAAQLA
+applePodcastsLink: https://podcasts.apple.com/gb/podcast/how-does-cole-henley-make-life-work/id1490247567?i=1000575329548
+amazonLink: https://music.amazon.co.uk/podcasts/fedb693f-a959-40e1-9834-c07796bcb734/episodes/62fbdf98-720b-4f99-94b0-5e9581a3cb42/make-life-work-how-does-cole-henley-make-life-work
 ogImage: "/assets/img/social-media/cole-henley.jpg"
 permalink: "/cole-henley/"
 intro: The one when Si talks to Cole about the pioneering days of the Web, getting through a serious health scare and drunkenly offering to illustrate Michael Rosen's book.
