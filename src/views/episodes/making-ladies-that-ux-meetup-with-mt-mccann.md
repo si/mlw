@@ -13,6 +13,9 @@ tags:
   - "sports"
   - "ux"
   - "women-in-tech"
+episode: S06E03
+enclosure: https://pinecast.com/listen/ab3760c3-00df-407d-b5fb-2d79e244f7f6.mp3
+
 ---
 
 **The one when Si talked to Marie-Therese McCann about starting a meet-up in Belfast to find other UX women in tech.**

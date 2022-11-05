@@ -8,6 +8,9 @@ tags:
   - "remote-working"
   - "season-6"
   - "skillshare"
+episode: S06E02
+enclosure: https://pinecast.com/listen/64375c1f-08ec-4fe6-96f6-65fd6647b1ca.mp3
+
 ---
 
 **The one when Si spoke to Chris about working remotely and making Skillshare course content for others to learn from.**

@@ -11,6 +11,9 @@ tags:
   - "public-speaking"
   - "season-6"
   - "women-in-tech"
+episode: S06E05
+enclosure: https://pinecast.com/listen/1ea35764-aa98-4d55-9126-2fd6b594d7b0.mp3
+
 ---
 
 **The one when Si talks to Lorna about sharing knowledge in open source, public speaking and everything in between.**
