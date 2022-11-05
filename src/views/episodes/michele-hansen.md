@@ -12,6 +12,9 @@ tags:
   - "season-9"
   - "women-in-tech"
   - "writing"
+episode: S09E01
+enclosure: https://pinecast.com/listen/68be11ec-1672-4a65-869a-3a7f24f07b1c.mp3
+
 ---
 
 **The one when Si talks to Michele about building a SaaS with her hubby, writing a book about empathy and making 100 episodes of a podcast, all whilst parenting.**

@@ -9,6 +9,9 @@ tags:
   - "parenting"
   - "remote-working"
   - "season-9"
+episode: S09E02
+enclosure: https://pinecast.com/listen/45da2dce-41d0-47a4-89af-8ca61286a6f9.mp3
+
 ---
 
 **The one when Si talks to Carlo about juggling 3 young kids with work, finding suitable space and time for professional situations and the joy of getting outside more.**

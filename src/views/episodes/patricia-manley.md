@@ -12,6 +12,9 @@ tags:
   - "podcasts"
   - "season-9"
   - "women-in-tech"
+episode: S09E06
+enclosure: https://pinecast.com/listen/2ccfe851-97bb-47e5-842a-98459a700798.mp3
+
 ---
 
 **The one when Si talks to Patricia about leading remote engineering teams from around Europe, producing a podcast of inspiring women and how gut health can improve neurodiversity.**

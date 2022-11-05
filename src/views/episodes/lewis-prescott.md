@@ -9,6 +9,9 @@ tags:
   - "parenting"
   - "season-9"
   - "software-testing"
+episode: S09E04
+enclosure: https://pinecast.com/listen/63adfba2-1853-45ee-873a-e444c9b377de.mp3
+
 ---
 
 **The one when Si talks to Lewis about leading QA in a product-led startup, using shared parental leave to balance childcare and making a podcast around baby naps.**
