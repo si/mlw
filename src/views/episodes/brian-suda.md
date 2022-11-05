@@ -14,6 +14,9 @@ tags:
   - "season-4"
   - "sports"
   - "writing"
+episode: S04E05
+enclosure: https://pinecast.com/listen/0be5bd9f-0a54-403b-9cd8-a94ec66c2619.mp3
+
 ---
 
 **Brian Suda** – master informatician in Iceland – has worked with Si on a number of side projects in the past. He's always managed to balance a healthy balance between his freelance gig, plenty side projects and enjoy giving back to the community.

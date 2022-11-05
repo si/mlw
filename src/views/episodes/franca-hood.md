@@ -11,6 +11,9 @@ tags:
   - "season-4"
   - "spiritual-awakening"
   - "zoom"
+episode: S04E03
+enclosure: https://pinecast.com/listen/bf459ce3-9f25-4ac7-b73c-036cda020529.mp3
+
 ---
 
 For **Season 4 Episode 3**, Si invites along clinical hypnotherapist, [Franca Hood](http://franca.uk/).

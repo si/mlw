@@ -12,6 +12,9 @@ tags:
   - "selling-side-projects"
   - "site-outages"
   - "streaming"
+episode: S04E04
+enclosure: https://pinecast.com/listen/dbb6a1d1-166c-4917-8012-762949761f07.mp3
+
 ---
 
 Daniel Vinnicombe is a full stack web developer for Suffolk Council in the UK. He’s also a man of many talents, making plenty projects on the side, a keen gamer and still finds time for his partner & 3 children. What a machine!

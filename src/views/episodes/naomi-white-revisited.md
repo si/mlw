@@ -12,6 +12,9 @@ tags:
   - "skincare-products"
   - "starkade"
   - "women-in-tech"
+episode: S04E02
+enclosure: https://pinecast.com/listen/de2bb709-663d-471b-9395-bb892641d4a8.mp3
+
 ---
 
 Season 4 Episode 2 invites [Naomi White](http://brandedbynaomi.com) back to revisit how she’s been handling life through lockdown; professionally, personally and creatively. As always, a real inspiration for anyone who’s trying to find motivation in these tough times.
