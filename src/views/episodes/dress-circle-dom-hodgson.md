@@ -9,6 +9,9 @@ tags:
   - "musical"
   - "season-8"
   - "ukdisdad"
+episode: S08E05
+enclosure: https://pinecast.com/listen/664759f8-d1a4-410f-9bea-e8b295d52cd2.mp3
+
 ---
 
 **The one when Si talks to Dom for the third time about running 46 miles, merge conflicts with his wife and what defines a stage show.**

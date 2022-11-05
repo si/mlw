@@ -9,6 +9,9 @@ tags:
   - "innovation"
   - "polymathy"
   - "season-8"
+episode: S08E01
+enclosure: https://pinecast.com/listen/5a531027-5a7a-4459-b44c-a8d4f49a6a2f.mp3
+
 ---
 
 **The one when Si talks to Dustin about the multidisciplinary spectrum, pushing past plateaus and the challenge of creating mixed media content.**

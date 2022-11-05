@@ -10,6 +10,9 @@ tags:
   - "open-source"
   - "season-8"
   - "sports"
+episode: S08E02
+enclosure: https://pinecast.com/listen/a66aed7c-319a-4fe7-83af-c73ede2f94e4.mp3
+
 ---
 
 **The one when Si talks to Andy about the crazy demand of Formula 1 race times, benefits of going open-source and paying the rent with sunset times.**

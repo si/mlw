@@ -10,6 +10,9 @@ tags:
   - "startup"
   - "volv"
   - "women-in-tech"
+episode: S08E03
+enclosure: https://pinecast.com/listen/1a3577e7-1b9d-450b-9767-f68099d05bc3.mp3
+
 ---
 
 **The one when Si talks to Shannon about challenging bias news outlets, getting over burnout and how Snap have provided more than just financial investment in their vision.**

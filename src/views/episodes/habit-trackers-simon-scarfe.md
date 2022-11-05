@@ -11,6 +11,9 @@ tags:
   - "season-8"
   - "simon-scarfe"
   - "wordpress"
+episode: S08E04
+enclosure: https://pinecast.com/listen/d5994481-2a9b-456d-a63d-b03fec92b82a.mp3
+
 ---
 
 **The one when Si talks to Si about all the BBC talent we've met on this podcast, a pragmatic approach to IndieWeb data with WordPress & GraphQL and hacking away in-between episodes of Dragon's Den.**
