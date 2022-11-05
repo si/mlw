@@ -9,6 +9,9 @@ tags:
   - "on-the-side"
   - "sam-hardacre"
   - "season-5"
+episode: S05E05
+enclosure: https://pinecast.com/listen/1863f609-60cd-49fd-8f9d-632cd1a04fd4.mp3
+
 ---
 
 **The one when Si, Sam and Mike invite Juan Fernandes to join the conversation about what motivates side projects and how to plan them out.**

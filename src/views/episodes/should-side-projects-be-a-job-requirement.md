@@ -8,6 +8,9 @@ tags:
   - "on-the-side"
   - "sam-hardacre"
   - "season-5"
+episode: S05E02
+enclosure: https://pinecast.com/listen/e3db4bd9-f149-43d8-adf0-0d081765e1e2.mp3
+
 ---
 
 **The one when Si, Mike and Sam discuss their side project failures and consider whether side projects are a necessity for people working in tech.**

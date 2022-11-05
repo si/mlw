@@ -8,6 +8,9 @@ tags:
   - "on-the-side"
   - "sam-hardacre"
   - "season-5"
+episode: S05E01
+enclosure: https://pinecast.com/listen/3076be8d-1228-467c-82e1-387f70129bd8.mp3
+
 ---
 
 **The one when Si returns for the 5th season of Make Life Work with Sam and Mike and a new “On The Side” takeover format.**

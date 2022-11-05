@@ -11,6 +11,9 @@ tags:
   - "on-the-side"
   - "sam-hardacre"
   - "season-5"
+episode: S05E06
+enclosure: https://pinecast.com/listen/f07a2d7b-f241-442b-adae-d8f5d8b87554.mp3
+
 ---
 
 Season 5 Episode 6 is the final episode of our “[On The Side](http://ontheside.network/)” takeover series before the team take a break for new jobs, babies and Easter holidays with kids.

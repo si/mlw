@@ -8,6 +8,9 @@ tags:
   - "on-the-side"
   - "sam-hardacre"
   - "season-5"
+episode: S05E03
+enclosure: https://pinecast.com/listen/a798bca1-f1c4-41ec-9d71-c6223648d737.mp3
+
 ---
 
 **The one when Si, Mike and Sam discuss whether they prefer working on side projects alone or in a group plus our first guest question about keeping motivated.**
