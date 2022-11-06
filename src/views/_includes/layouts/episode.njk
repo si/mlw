@@ -5,6 +5,11 @@ eleventyComputed:
 ---
 <div itemscope itemtype="http://schema.org/PublicationIssue" class="interviewSingle podcastSingle">
 
+	{% if image %}
+		{% include "banner.njk" %}
+	{% endif %}
+
+
 	<p class="meta">
 		<span itemprop="issueNumber">#{{ episode }}</span>
 		<time datetime="{{ date }}" itemprop="datePublished">
