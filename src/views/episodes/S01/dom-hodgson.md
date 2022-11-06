@@ -12,6 +12,7 @@ tags:
   - "ukdisdad"
 episode: S01E01
 enclosure: https://pinecast.com/listen/c6482f89-982f-4411-9c8b-debebeb7d099.mp3
+image: /images/uploads/S01/Dom-Hodgson.png
 ---
 
 In this **brand new** [Make Life Work podcast](https://sijobling.com/makelifework/) about balancing work, life and side projects, I have a chat with **Dom Hodgson** about his freelancing family arrangements, all his side projects and his amazing health kick.
