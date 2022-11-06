@@ -10,6 +10,7 @@ tags:
   - "stephen-turvey-wright"
 episode: S03E02
 enclosure: https://pinecast.com/listen/1290e950-fe89-4227-99de-00633e936d04.m4a
+image: /images/uploads/S03/Stephen-Turvey-Wright.png
 
 ---
 

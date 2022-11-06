@@ -13,6 +13,7 @@ tags:
   - "women-in-tech"
 episode: S03E04
 enclosure: https://pinecast.com/listen/54edb925-723a-4d5c-8aeb-5cf71c563123.m4a
+image: /images/uploads/S03/Alex-Brooke.png
 
 ---
 

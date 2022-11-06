@@ -13,6 +13,7 @@ tags:
   - "on-the-side"
 episode: S03E05
 enclosure: https://pinecast.com/listen/174945ee-61d6-457a-a57e-66a5c528f6b4.m4a
+image: /images/uploads/S03/Mike-Street.png
 
 ---
 

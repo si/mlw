@@ -12,6 +12,7 @@ tags:
   - "on-the-side"
 episode: S03E03
 enclosure: https://pinecast.com/listen/a5948b93-c187-4f81-aafd-cf434d201530.m4a
+image: /images/uploads/S03/Run-Dom-Run.jpg
 
 ---
 
