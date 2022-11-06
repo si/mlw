@@ -16,6 +16,7 @@ tags:
   - "women-in-tech"
 episode: S02E03
 enclosure: https://pinecast.com/listen/44027c4f-fd6e-41c5-8af1-1651e5fd71f1.m4a
+image: /images/uploads/S02/Ashley-Baxter.jpeg
 
 ---
 

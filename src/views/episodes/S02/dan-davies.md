@@ -13,6 +13,7 @@ tags:
   - "writing"
 episode: S02E05
 enclosure: https://pinecast.com/listen/ee80d798-064d-4cb2-80f6-a2950a6825de.m4a
+image: /images/uploads/S02/Dan-Davies.jpeg
 
 ---
 

@@ -15,6 +15,8 @@ tags:
   - "women-in-tech"
 episode: S02E01
 enclosure: https://pinecast.com/listen/6102b585-f590-46a2-a810-335412f4ce32.m4a
+image: /images/uploads/S02/Naomi-White.jpeg
+
 ---
 
 For the _sixth_ episode (and first of the second series) of the Make Life Work podcast, Si talks to **Naomi White** (né Atkinson) - brand designer from Newcastle UK.
