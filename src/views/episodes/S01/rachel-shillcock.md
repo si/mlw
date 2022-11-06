@@ -15,6 +15,7 @@ tags:
   - "women-in-tech"
 episode: S01E03
 enclosure: https://pinecast.com/listen/943744d5-3593-43c7-a32c-777f7c3685d5.mp3
+image: /images/uploads/S01/Rachel-Shillcock.png
 
 ---
 

@@ -11,6 +11,7 @@ tags:
   - "weeknotes"
 episode: S01E04
 enclosure: https://pinecast.com/listen/cbfb00aa-3a47-4d2a-9829-babb3ee23d74.mp3
+image: /images/uploads/S01/Dan-Blundell.png
 
 ---
 

@@ -13,6 +13,7 @@ tags:
   - "sunsetting"
 episode: S01E05
 enclosure: https://pinecast.com/listen/d9cd76f4-55e3-407f-9cac-cc7bf447e561.mp3
+image: /images/uploads/S01/Mike-Hince.png
 
 ---
 

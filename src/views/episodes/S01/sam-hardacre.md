@@ -14,6 +14,7 @@ tags:
   - "skinny-drawn-boy"
 episode: S01E02
 enclosure: https://pinecast.com/listen/66132c0f-68b6-4166-b833-055487631ab8.mp3
+image: /images/uploads/S01/Sam-Hardacre.png
 
 ---
 
