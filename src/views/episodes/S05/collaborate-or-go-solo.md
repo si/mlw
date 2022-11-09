@@ -10,6 +10,7 @@ tags:
   - "season-5"
 episode: S05E03
 enclosure: https://pinecast.com/listen/a798bca1-f1c4-41ec-9d71-c6223648d737.mp3
+image: /images/uploads/S05/Collaborate-or-Go-Solo.jpg
 
 ---
 

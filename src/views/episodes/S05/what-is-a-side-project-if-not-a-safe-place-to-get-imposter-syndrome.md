@@ -13,6 +13,7 @@ tags:
   - "season-5"
 episode: S05E06
 enclosure: https://pinecast.com/listen/f07a2d7b-f241-442b-adae-d8f5d8b87554.mp3
+image: /images/uploads/S05/What-Is-A-Side-Project.jpeg
 
 ---
 

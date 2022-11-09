@@ -12,6 +12,7 @@ tags:
   - "usa"
 episode: S07E05
 enclosure: https://pinecast.com/listen/26d5f8b5-c4f6-45b4-bfd7-4b64d1927588.mp3
+image: /images/uploads/S07/Making-Founderpath-Mubs.jpeg
 
 ---
 

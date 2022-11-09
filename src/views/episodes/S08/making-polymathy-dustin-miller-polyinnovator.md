@@ -11,6 +11,7 @@ tags:
   - "season-8"
 episode: S08E01
 enclosure: https://pinecast.com/listen/5a531027-5a7a-4459-b44c-a8d4f49a6a2f.mp3
+image: /images/uploads/S08/Make-Life-Work-with-Dustin-Miller-PolyInnovator.jpg
 
 ---
 

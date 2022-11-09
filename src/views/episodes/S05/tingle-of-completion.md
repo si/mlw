@@ -11,6 +11,7 @@ tags:
   - "season-5"
 episode: S05E05
 enclosure: https://pinecast.com/listen/1863f609-60cd-49fd-8f9d-632cd1a04fd4.mp3
+image: /images/uploads/S05/Tingle-of-Completion.jpg
 
 ---
 

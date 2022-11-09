@@ -10,6 +10,7 @@ tags:
   - "season-5"
 episode: S05E01
 enclosure: https://pinecast.com/listen/3076be8d-1228-467c-82e1-387f70129bd8.mp3
+image: /images/uploads/S05/On-The-Side-Takeover-Pilot.jpeg
 
 ---
 

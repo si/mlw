@@ -11,6 +11,7 @@ tags:
   - "women-in-tech"
 episode: S09E03
 enclosure: https://pinecast.com/listen/9fb62f5b-c773-4fe8-9d53-06515e7246ee.mp3
+image: /images/uploads/S09/How-does-AJ-Wilson-make-life-work.jpeg
 
 ---
 

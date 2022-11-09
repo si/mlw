@@ -11,6 +11,7 @@ tags:
   - "ukdisdad"
 episode: S08E05
 enclosure: https://pinecast.com/listen/664759f8-d1a4-410f-9bea-e8b295d52cd2.mp3
+image: /images/uploads/S08/Making-Dress-Circle-with-Dom-Hodgson.jpeg
 
 ---
 

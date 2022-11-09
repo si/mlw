@@ -13,6 +13,7 @@ tags:
   - "women-in-tech"
 episode: S07E01
 enclosure: https://pinecast.com/listen/561c16c1-0f7f-4948-84ed-f7d5eecd3a30.mp3
+image: /images/uploads/S07/Making-strategic-photography-with-Shari-Muhima.jpg
 
 ---
 

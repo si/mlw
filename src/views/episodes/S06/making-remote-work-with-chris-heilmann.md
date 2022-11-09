@@ -10,6 +10,7 @@ tags:
   - "skillshare"
 episode: S06E02
 enclosure: https://pinecast.com/listen/64375c1f-08ec-4fe6-96f6-65fd6647b1ca.mp3
+image: /images/uploads/S06/Make-Life-Work-Remote-work-with-Chris-Heilmann.jpg
 
 ---
 

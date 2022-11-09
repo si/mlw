@@ -13,6 +13,7 @@ tags:
   - "writing"
 episode: S07E03
 enclosure: https://pinecast.com/listen/3b6cbdfc-75d8-4575-83cd-cb51857f4c13.mp3
+image: /images/uploads/S07/Making-Letters-to-a-New-Developer-with-Dan-Moore.jpg
 
 ---
 

@@ -12,6 +12,8 @@ tags:
   - "season-9"
 episode: S09E05
 enclosure: https://pinecast.com/listen/a1cbbbf6-bba4-4ee0-ad9c-ec2912062df0.mp3
+image: /images/uploads/S09/How-does-James-Norton-make-life-work.jpg
+
 ---
 
 **The one when Si talks to James about building trust in your teams, setting time boundaries at home and an x-ray of his daughter's broken hand.**

@@ -12,6 +12,7 @@ tags:
   - "women-in-tech"
 episode: S08E03
 enclosure: https://pinecast.com/listen/1a3577e7-1b9d-450b-9767-f68099d05bc3.mp3
+image: /images/uploads/S08/Making-Volv-with-Shannon-Almeida.jpg
 
 ---
 

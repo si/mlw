@@ -15,6 +15,7 @@ tags:
   - "women-in-tech"
 episode: S06E03
 enclosure: https://pinecast.com/listen/ab3760c3-00df-407d-b5fb-2d79e244f7f6.mp3
+image: /images/uploads/S06/Making-Ladies-That-UX-Meetup-MT-McCann.jpeg
 
 ---
 

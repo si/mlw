@@ -12,6 +12,8 @@ tags:
   - "twitter"
 episode: S06E01
 enclosure: https://pinecast.com/listen/2f380107-dc34-478a-8903-24104bb68321.mp3
+image: /images/uploads/S06/Making-@Fesshole-with-Rob-Manuel.jpg
+
 ---
 
 **The one when Si talks to Rob Manuel about making the entertaining crowd-sourced Twitter bot Fesshole.**

@@ -14,6 +14,7 @@ tags:
   - "women-in-tech"
 episode: S09E06
 enclosure: https://pinecast.com/listen/2ccfe851-97bb-47e5-842a-98459a700798.mp3
+image: /images/uploads/S09/How-does-Patricia-Manley-make-life-work.jpg
 
 ---
 

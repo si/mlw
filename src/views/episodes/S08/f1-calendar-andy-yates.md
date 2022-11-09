@@ -12,6 +12,7 @@ tags:
   - "sports"
 episode: S08E02
 enclosure: https://pinecast.com/listen/a66aed7c-319a-4fe7-83af-c73ede2f94e4.mp3
+image: /images/uploads/S08/Making-F1-Calendar-with-Andy-Yates.jpg
 
 ---
 
