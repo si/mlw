@@ -2,6 +2,11 @@
 
 body {
     font-family: sans-serif;
-    color: config.color('grey', 'dark');
+    background: #54009C;
+    color: config.color('grey', 'light');
     margin: 0;
+}
+
+a {
+    color: #EA734F;
 }
