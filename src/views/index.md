@@ -1,6 +1,6 @@
 ---
 layout: content-page
-image: /images/uploads/home.jpeg
+image: /images/design/make-life-work-stickers-1200x900.jpeg
 title: Make Life Work podcast
 ---
 ## Podcast about balancing work, life and side projects.
