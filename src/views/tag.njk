@@ -12,30 +12,8 @@ eleventyComputed:
 
 <div class="container blog-container">
 	<h1>{{ tag }}</h1>
-	<p class="subtitle">Showing posts from the category <strong>"{{ tag }}"</strong> </p>
+	<p class="subtitle">Showing posts for the tag <strong>"{{ tag }}"</strong> </p>
 
-	<div class="breadcrumb meta">
-		<ol itemscope="" itemtype="http://schema.org/BreadcrumbList">
-			<li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
-				<a itemprop="item" href="{{ meta.site.url }}/">
-					<span itemprop="name">Home</span>
-				</a>
-				<meta itemprop="position" content="1">
-			</li>
-			<li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
-				<a itemprop="item" href="{{ meta.site.url }}/blog/">
-					<span itemprop="name">Blog</span>
-				</a>
-				<meta itemprop="position" content="2">
-			</li>
-			<li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
-				<a itemprop="item" href="{{ meta.site.url }}{{ page.url }}">
-					<span itemprop="name">{{ tag }}</span>
-				</a>
-				<meta itemprop="position" content="3">
-			</li>
-		</ol>
-	</div>
 
 	<div class="post-listing">
 		<ul class="post-listing-full">
