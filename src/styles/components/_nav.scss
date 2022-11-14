@@ -13,13 +13,17 @@
     font-weight: 600;
     text-transform: uppercase;
     padding: 8px;
-    border: 4px solid config.color('grey', 'light');
     color: config.color('grey', 'light');
     text-decoration: none;
 
     &:hover,
     &:focus {
         color: config.$white;
+    }
+
+    img {
+        width: 128px;
+        height: 128px;    
     }
 }
 
