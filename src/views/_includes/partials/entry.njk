@@ -5,19 +5,12 @@
 		</h3>
 		<p class="date">
 			{% if entry.date %}
-				<time class="dt-published is-hidden">{{ entry.date }}</time>
-				{% if entry.date > now %}
-					Scheduled for <strong>{{ entry.date }}</strong>.
-				{% else %}
-					Posted on <strong>{{ entry.date }}</strong>.
-				{% endif %}
+				Posted on <strong>{{ entry.date }}</strong>.
 			{% endif %}
-			{% if entry.data.publication %}Written For <strong>{{ entry.data.publication }}</strong>{% endif %}
-			{% if entry.url.includes('/drafts/') or entry.data.draft %}<span class="info">Draft</span>{% endif %}
 		</p>
 
 		<p class="abstract">
-			{{ entry.data.intro }}
+			<a href="{{ entry.url }}"><img src="{{ entry.data.image }}" alt="{{ entry.data.title }}" class="c-banner" /></a>
 		</p>
 
 	</article>
