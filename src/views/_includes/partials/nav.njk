@@ -1,14 +1,11 @@
 <nav class="l-main__nav c-nav">
     <a href="/" class="c-nav__logo"><img src="/images/design/make-life-work-512.png" alt="Make Life Work" /></a>
+
     <ul class="c-nav__list">
-    {% for post in collections.all %}
+        {% for tag in collections.seasonTagsList %}
         <li>
-            {% if page.url == post.url %}
-            {{ post.fileSlug | capitalize }}
-            {% else %}
-            <a href="{{ post.url }}">{{ post.fileSlug | capitalize }}</a>
-            {% endif %}
+            <a href="/tag/{{tag}}/">{{tag}}</a>
         </li>
-    {% endfor %}
+        {% endfor %}
     </ul>
 </nav>
