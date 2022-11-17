@@ -15,12 +15,11 @@ eleventyComputed:
 	<p class="subtitle">Showing posts tagged <strong>"{{ tag }}"</strong> </p>
 
 
-	<div class="post-listing">
-		<ul class="post-listing-full">
-		{% set categoryList = collections[ tag ] %}
-		{% for entry in categoryList %}
-			{% include 'entry.njk' %}
-		{% endfor %}
-		</ul>
-	</div>
+	<ul class="post-listing">
+	{% set categoryList = collections[ tag ] %}
+	{% for entry in categoryList %}
+		{% include 'entry.njk' %}
+	{% endfor %}
+	</ul>
+
 </div>
