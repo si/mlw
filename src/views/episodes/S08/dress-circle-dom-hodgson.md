@@ -4,11 +4,12 @@ date: "2022-03-07"
 categories: 
   - "podcast"
 tags: 
+  - "Season 8"
+  - "Dom Hodgson"
+  - "On The Side"
   - "community"
-  - "dom-hodgson"
   - "musical"
-  - "season-8"
-  - "ukdisdad"
+  - "UKDisDad"
 episode: S08E05
 enclosure: https://pinecast.com/listen/664759f8-d1a4-410f-9bea-e8b295d52cd2.mp3
 image: /images/uploads/S08/Making-Dress-Circle-with-Dom-Hodgson.jpeg

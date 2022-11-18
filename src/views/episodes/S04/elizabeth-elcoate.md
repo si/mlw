@@ -4,13 +4,13 @@ date: "2020-09-25"
 categories: 
   - "podcast"
 tags: 
-  - "brand-design"
+  - "brand design"
   - "communities"
   - "education"
-  - "elizabeth-elcoate"
+  - "Elizabeth Elcoate"
   - "podcasts"
-  - "season-4"
-  - "women-in-tech"
+  - "Season 4"
+  - "Women In Tech"
 episode: S04E01
 enclosure: https://pinecast.com/listen/461b7deb-2be2-4932-a3ac-68c6e54e254b.mp3
 image: /images/uploads/S04/Make-Life-Work-Elizabeth-Elcoate.jpg

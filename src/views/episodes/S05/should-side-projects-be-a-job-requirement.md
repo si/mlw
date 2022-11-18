@@ -4,10 +4,10 @@ date: "2021-02-22"
 categories: 
   - "podcast"
 tags: 
-  - "mike-street"
-  - "on-the-side"
-  - "sam-hardacre"
-  - "season-5"
+  - "Mike Street"
+  - "On The Side"
+  - "Sam Hardacre"
+  - "Season 5"
 episode: S05E02
 enclosure: https://pinecast.com/listen/e3db4bd9-f149-43d8-adf0-0d081765e1e2.mp3
 image: /images/uploads/S05/Should-Side-Projects-Be-A-Job-Requirement.jpg

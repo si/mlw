@@ -4,12 +4,12 @@ date: "2022-02-14"
 categories: 
   - "podcast"
 tags: 
-  - "burn-out"
-  - "season-8"
-  - "shannon-almeida"
+  - "Season 8"
+  - "Shannon Almeida"
+  - "burnout"
   - "startup"
-  - "volv"
-  - "women-in-tech"
+  - "Volv"
+  - "Women In Tech"
 episode: S08E03
 enclosure: https://pinecast.com/listen/1a3577e7-1b9d-450b-9767-f68099d05bc3.mp3
 image: /images/uploads/S08/Making-Volv-with-Shannon-Almeida.jpg

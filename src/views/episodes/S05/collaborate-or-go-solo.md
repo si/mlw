@@ -4,10 +4,10 @@ date: "2021-03-01"
 categories: 
   - "podcast"
 tags: 
-  - "mike-street"
-  - "on-the-side"
-  - "sam-hardacre"
-  - "season-5"
+  - "Mike Street"
+  - "On The Side"
+  - "Sam Hardacre"
+  - "Season 5"
 episode: S05E03
 enclosure: https://pinecast.com/listen/a798bca1-f1c4-41ec-9d71-c6223648d737.mp3
 image: /images/uploads/S05/Collaborate-or-Go-Solo.jpg

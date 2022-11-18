@@ -4,10 +4,11 @@ date: "2021-07-05"
 categories: 
   - "podcast"
 tags: 
-  - "chris-murphy"
+  - "Chris Murphy"
   - "design"
   - "education"
-  - "season-6"
+  - "Season 6"
+  - "Northern Ireland"
 episode: S06E04
 enclosure: https://pinecast.com/listen/3b5405a7-81d6-42dd-a65d-8849e850d7a6.mp3
 image: /images/uploads/S06/Making-School-of-Design-with-Chris-Murphy.jpg

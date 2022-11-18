@@ -4,15 +4,15 @@ date: "2021-06-28"
 categories: 
   - "podcast"
 tags: 
-  - "ladies-that-ux"
+  - "Ladies That UX"
   - "meetups"
-  - "mt-mccann"
-  - "northern-ireland"
+  - "MT McCann"
+  - "Northern Ireland"
   - "parenting"
-  - "season-6"
+  - "Season 6"
   - "sports"
-  - "ux"
-  - "women-in-tech"
+  - "UX"
+  - "Women In Tech"
 episode: S06E03
 enclosure: https://pinecast.com/listen/ab3760c3-00df-407d-b5fb-2d79e244f7f6.mp3
 image: /images/uploads/S06/Making-Ladies-That-UX-Meetup-MT-McCann.jpeg

@@ -4,10 +4,10 @@ date: "2022-08-08"
 categories: 
   - "podcast"
 tags: 
-  - "burnout"
-  - "cole-henley"
+  - "Season 9"
+  - "Cole Henley"
   - "illustration"
-  - "season-9"
+  - "burnout"
   - "writing"
 episode: S09E07
 enclosure: https://pinecast.com/listen/06b06660-aaff-41ad-aff1-73e4f2375c57.mp3

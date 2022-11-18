@@ -7,9 +7,9 @@ tags:
   - "b3ta"
   - "comedy"
   - "fesshole"
-  - "rob-manuel"
-  - "season-6"
-  - "twitter"
+  - "Rob Manuel"
+  - "Season 6"
+  - "Twitter"
 episode: S06E01
 enclosure: https://pinecast.com/listen/2f380107-dc34-478a-8903-24104bb68321.mp3
 image: /images/uploads/S06/Making-@Fesshole-with-Rob-Manuel.jpg

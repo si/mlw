@@ -4,12 +4,12 @@ date: "2019-12-30"
 categories: 
   - "podcast"
 tags: 
-  - "howler"
-  - "keto-diet"
-  - "ldn-calling"
-  - "mike-hince"
+  - "Howler"
+  - "keto diet"
+  - "LDN Calling"
+  - "Mike Hince"
   - "podcasts"
-  - "season-1"
+  - "Season 1"
   - "sunsetting"
 episode: S01E05
 enclosure: https://pinecast.com/listen/d9cd76f4-55e3-407f-9cac-cc7bf447e561.mp3

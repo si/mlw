@@ -4,14 +4,14 @@ date: "2022-06-27"
 categories: 
   - "podcast"
 tags: 
-  - "mental-health"
-  - "michele-hansen"
+  - "Season 9"
+  - "Michele Hansen"
+  - "mental health"
   - "parenting"
   - "podcasts"
   - "saas"
-  - "season-9"
-  - "women-in-tech"
   - "writing"
+  - "Women In Tech"
 episode: S09E01
 enclosure: https://pinecast.com/listen/68be11ec-1672-4a65-869a-3a7f24f07b1c.mp3
 image: /images/uploads/S09/How-does-Michele-Hansen-make-life-work.jpg

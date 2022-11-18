@@ -6,11 +6,11 @@ categories:
 tags: 
   - "accessibility"
   - "camping"
-  - "dan-vinnicombe"
-  - "season-4"
-  - "self-learning"
-  - "selling-side-projects"
-  - "site-outages"
+  - "Dan Vinnicombe"
+  - "Season 4"
+  - "self learning"
+  - "selling side projects"
+  - "site outages"
   - "streaming"
 episode: S04E04
 enclosure: https://pinecast.com/listen/dbb6a1d1-166c-4917-8012-762949761f07.mp3

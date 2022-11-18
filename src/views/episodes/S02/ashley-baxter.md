@@ -4,16 +4,16 @@ date: "2020-03-09"
 categories: 
   - "podcast"
 tags: 
-  - "ashley-baxter"
-  - "business-insurance"
+  - "Ashley Baxter"
+  - "business insurance"
   - "entrepreneur"
   - "gaming"
-  - "landlord-insurance"
+  - "landlord insurance"
   - "podcasts"
-  - "season-2"
-  - "unsure-insure"
-  - "with-jack"
-  - "women-in-tech"
+  - "Season 2"
+  - "Unsure Insure"
+  - "With Jack"
+  - "Women In Tech"
 episode: S02E03
 enclosure: https://pinecast.com/listen/44027c4f-fd6e-41c5-8af1-1651e5fd71f1.m4a
 image: /images/uploads/S02/Ashley-Baxter.jpeg

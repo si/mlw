@@ -4,14 +4,14 @@ date: "2020-10-23"
 categories: 
   - "podcast"
 tags: 
-  - "brian-suda"
+  - "Brian Suda"
   - "freelancing"
-  - "iceland"
+  - "Iceland"
   - "informatician"
   - "informatics"
   - "microformats"
   - "newsletters"
-  - "season-4"
+  - "Season 4"
   - "sports"
   - "writing"
 episode: S04E05

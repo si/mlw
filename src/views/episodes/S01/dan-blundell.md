@@ -4,10 +4,10 @@ date: "2019-12-23"
 categories: 
   - "podcast"
 tags: 
-  - "dan-blundell"
-  - "lgss-digital"
-  - "on-the-side"
-  - "season-1"
+  - "Dan Blundell"
+  - "LGSS Digital"
+  - "On The Side"
+  - "Season 1"
   - "weeknotes"
 episode: S01E04
 enclosure: https://pinecast.com/listen/cbfb00aa-3a47-4d2a-9829-babb3ee23d74.mp3

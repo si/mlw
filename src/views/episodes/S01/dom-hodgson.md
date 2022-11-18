@@ -4,12 +4,12 @@ date: "2019-12-02"
 categories: 
   - "podcast"
 tags: 
-  - "disney"
-  - "dom-hodgson"
-  - "little-warden"
-  - "on-the-side"
-  - "season-1"
-  - "ukdisdad"
+  - "Disney"
+  - "Dom Hodgson"
+  - "Little Warden"
+  - "On The Side"
+  - "Season 1"
+  - "UKDisDad"
 episode: S01E01
 enclosure: https://pinecast.com/listen/c6482f89-982f-4411-9c8b-debebeb7d099.mp3
 image: /images/uploads/S01/Dom-Hodgson.png

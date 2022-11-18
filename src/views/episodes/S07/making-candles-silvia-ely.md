@@ -4,11 +4,11 @@ date: "2021-10-04"
 categories: 
   - "podcast"
 tags: 
-  - "candle-making"
-  - "ely-ochola"
+  - "Season 7"
+  - "Ely Ochola"
+  - "Silvia Costa"
+  - "candle making"
   - "meditation"
-  - "season-7"
-  - "silvia-costa"
   - "wellbeing"
 episode: S07E04
 enclosure: https://pinecast.com/listen/cc2bbbc2-b64f-4dd7-b88c-1edda9329f87.mp3

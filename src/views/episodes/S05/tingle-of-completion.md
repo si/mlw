@@ -4,11 +4,11 @@ date: "2021-03-15"
 categories: 
   - "podcast"
 tags: 
-  - "juan-fernandes"
-  - "mike-street"
-  - "on-the-side"
-  - "sam-hardacre"
-  - "season-5"
+  - "Mike Street"
+  - "On The Side"
+  - "Sam Hardacre"
+  - "Season 5"
+  - "Juan Fernandes"
 episode: S05E05
 enclosure: https://pinecast.com/listen/1863f609-60cd-49fd-8f9d-632cd1a04fd4.mp3
 image: /images/uploads/S05/Tingle-of-Completion.jpg

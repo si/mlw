@@ -6,12 +6,12 @@ categories:
 tags: 
   - "comics"
   - "illustration"
-  - "new-adventures"
-  - "on-the-side"
+  - "New Adventures"
+  - "on the side"
   - "parenting"
-  - "sam-hardacre"
-  - "season-1"
-  - "skinny-drawn-boy"
+  - "Sam Hardacre"
+  - "Season 1"
+  - "Skinny Drawn Boy"
 episode: S01E02
 enclosure: https://pinecast.com/listen/66132c0f-68b6-4166-b833-055487631ab8.mp3
 image: /images/uploads/S01/Sam-Hardacre.png

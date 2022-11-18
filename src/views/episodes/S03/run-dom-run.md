@@ -4,13 +4,13 @@ date: "2020-05-22"
 categories: 
   - "podcast"
 tags: 
-  - "season-3"
-  - "disney"
-  - "dom-hodgson"
+  - "Season 3"
+  - "Disney"
+  - "Dom Hodgson"
   - "fundraising"
-  - "home-edition"
-  - "martins-house-hospice"
-  - "on-the-side"
+  - "Home Edition"
+  - "Martins House Hospice"
+  - "On The Side"
 episode: S03E03
 enclosure: https://pinecast.com/listen/a5948b93-c187-4f81-aafd-cf434d201530.m4a
 image: /images/uploads/S03/Run-Dom-Run.jpg

@@ -4,14 +4,14 @@ date: "2020-10-02"
 categories: 
   - "podcast"
 tags: 
-  - "animal-crossing"
-  - "brand-design"
-  - "logo-design"
-  - "naomi-white"
-  - "season-4"
-  - "skincare-products"
-  - "starkade"
-  - "women-in-tech"
+  - "Animal Crossing"
+  - "brand design"
+  - "logo design"
+  - "Naomi White"
+  - "Season 4"
+  - "skincare products"
+  - "Starkade"
+  - "Women In Tech"
 episode: S04E02
 enclosure: https://pinecast.com/listen/de2bb709-663d-471b-9395-bb892641d4a8.mp3
 image: /images/uploads/S04/Make-Life-Work-Naomi-White-Revisited.jpg

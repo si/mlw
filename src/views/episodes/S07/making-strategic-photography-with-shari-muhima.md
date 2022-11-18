@@ -4,13 +4,13 @@ date: "2021-09-13"
 categories: 
   - "podcast"
 tags: 
-  - "brand-design"
-  - "on-the-side"
+  - "Season 7"
+  - "Shari Muhima"
+  - "brand design"
+  - "On The Side"
   - "photography"
-  - "season-7"
-  - "shari-muhima"
   - "skillshare"
-  - "women-in-tech"
+  - "Women In Tech"
 episode: S07E01
 enclosure: https://pinecast.com/listen/561c16c1-0f7f-4948-84ed-f7d5eecd3a30.mp3
 image: /images/uploads/S07/Making-strategic-photography-with-Shari-Muhima.jpg

@@ -4,12 +4,12 @@ date: "2021-09-27"
 categories: 
   - "podcast"
 tags: 
+  - "Season 7"
+  - "Dan Moore"
   - "children"
-  - "dan-moore"
   - "devrel"
-  - "fusionauth"
+  - "Fusionauth"
   - "publishing"
-  - "season-7"
   - "writing"
 episode: S07E03
 enclosure: https://pinecast.com/listen/3b6cbdfc-75d8-4575-83cd-cb51857f4c13.mp3

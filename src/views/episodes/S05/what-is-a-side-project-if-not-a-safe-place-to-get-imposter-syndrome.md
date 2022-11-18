@@ -4,13 +4,13 @@ date: "2021-03-22"
 categories: 
   - "podcast"
 tags: 
+  - "Mike Street"
+  - "On The Side"
+  - "Sam Hardacre"
+  - "Season 5"
   - "11ty"
-  - "imposter-syndrome"
-  - "jesse-payne"
-  - "mike-street"
-  - "on-the-side"
-  - "sam-hardacre"
-  - "season-5"
+  - "imposter syndrome"
+  - "Jesse Payne"
 episode: S05E06
 enclosure: https://pinecast.com/listen/f07a2d7b-f241-442b-adae-d8f5d8b87554.mp3
 image: /images/uploads/S05/What-Is-A-Side-Project.jpeg

@@ -4,15 +4,15 @@ date: "2020-02-24"
 categories: 
   - "podcast"
 tags: 
-  - "brand-design"
+  - "brand design"
   - "comics"
-  - "naomi-white"
-  - "public-speaking"
-  - "season-2"
-  - "signalnoise"
-  - "social-good"
-  - "whosits-whatsits"
-  - "women-in-tech"
+  - "Naomi White"
+  - "public speaking"
+  - "Season 2"
+  - "SignalNoise"
+  - "social good"
+  - "Whosits Whatsits"
+  - "Women In Tech"
 episode: S02E01
 enclosure: https://pinecast.com/listen/6102b585-f590-46a2-a810-335412f4ce32.m4a
 image: /images/uploads/S02/Naomi-White.jpeg

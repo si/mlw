@@ -6,15 +6,15 @@ categories:
 tags: 
   - "bbc"
   - "chatbots"
-  - "house-music"
-  - "javascript-testing"
+  - "house music"
+  - "javascript testing"
   - "leadership"
-  - "marc-littlemore"
-  - "on-the-side"
+  - "Marc Littlemore"
+  - "On The Side"
   - "podcasts"
-  - "season-2"
+  - "Season 2"
   - "sepsis"
-  - "young-adult-fiction"
+  - "young adult fiction"
 episode: S02E04
 enclosure: https://pinecast.com/listen/48d20084-c6b2-4e95-921f-21f0f7f6a3f2.m4a
 image: /images/uploads/S02/Marc-Littlemore.jpeg

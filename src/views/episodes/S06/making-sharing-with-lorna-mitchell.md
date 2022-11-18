@@ -5,12 +5,12 @@ categories:
   - "podcast"
 tags: 
   - "devrel"
-  - "line-management"
-  - "lorna-mitchell"
-  - "open-source"
-  - "public-speaking"
-  - "season-6"
-  - "women-in-tech"
+  - "line management"
+  - "Lorna Mitchell"
+  - "open source"
+  - "public speaking"
+  - "Season 6"
+  - "Women In Tech"
 episode: S06E05
 enclosure: https://pinecast.com/listen/1ea35764-aa98-4d55-9126-2fd6b594d7b0.mp3
 image: /images/uploads/S06/Making-and-Sharing-Lorna-Mitchell.jpeg

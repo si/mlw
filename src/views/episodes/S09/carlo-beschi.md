@@ -4,11 +4,11 @@ date: "2022-07-04"
 categories: 
   - "podcast"
 tags: 
-  - "asos"
-  - "carlo-beschi"
+  - "Season 9"
+  - "Carlo Beschi"
+  - "ASOS"
   - "parenting"
-  - "remote-working"
-  - "season-9"
+  - "remote working"
 episode: S09E02
 enclosure: https://pinecast.com/listen/45da2dce-41d0-47a4-89af-8ca61286a6f9.mp3
 image: /images/uploads/S09/How-does-Carlo-Beschi-make-life-work.jpeg

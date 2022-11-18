@@ -4,11 +4,11 @@ date: "2021-03-08"
 categories: 
   - "podcast"
 tags: 
-  - "mike-street"
-  - "on-the-side"
-  - "sam-hardacre"
-  - "season-5"
-  - "shari-muhima"
+  - "Mike Street"
+  - "On The Side"
+  - "Sam Hardacre"
+  - "Season 5"
+  - "Shari Muhima"
 episode: S05E04
 enclosure: https://pinecast.com/listen/93ca874c-7c34-40b7-992b-dc1e8b7df51e.mp3
 image: /images/uploads/S05/Selfish-Problem-Solving.jpeg

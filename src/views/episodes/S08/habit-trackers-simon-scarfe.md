@@ -4,13 +4,14 @@ date: "2022-02-21"
 categories: 
   - "podcast"
 tags: 
-  - "bbc"
+  - "Season 8"
+  - "Simon Scarfe"
+  - "BBC"
+  - "Cinch"
   - "graphql"
-  - "habit-tracking"
+  - "habit tracking"
   - "parenting"
-  - "season-8"
-  - "simon-scarfe"
-  - "wordpress"
+  - "Wordpress"
 episode: S08E04
 enclosure: https://pinecast.com/listen/d5994481-2a9b-456d-a63d-b03fec92b82a.mp3
 image: /images/uploads/S08/Making-habit-trackers-with-Simon-Scarfe.jpg

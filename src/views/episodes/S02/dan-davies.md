@@ -4,12 +4,12 @@ date: "2020-03-23"
 categories: 
   - "podcast"
 tags: 
-  - "net-magazine"
-  - "colchester-digital"
-  - "dan-davies"
+  - "net magazine"
+  - "Colchester Digital"
+  - "Dan Davies"
   - "gaming"
   - "parenting"
-  - "season-2"
+  - "Season 2"
   - "writing"
 episode: S02E05
 enclosure: https://pinecast.com/listen/ee80d798-064d-4cb2-80f6-a2950a6825de.m4a

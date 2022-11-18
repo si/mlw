@@ -4,15 +4,15 @@ date: "2019-12-16"
 categories: 
   - "podcast"
 tags: 
-  - "hypermobility-syndrome"
-  - "imposter-syndrome"
-  - "jake-knapp"
-  - "mkgn"
-  - "on-the-side"
-  - "rachel-shillcock"
-  - "rachilli"
-  - "season-1"
-  - "women-in-tech"
+  - "hypermobility syndrome"
+  - "imposter syndrome"
+  - "Jake Knapp"
+  - "MKGN"
+  - "On The Side"
+  - "Rachel Shillcock"
+  - "Rachilli"
+  - "Season 1"
+  - "Women In Tech"
 episode: S01E03
 enclosure: https://pinecast.com/listen/943744d5-3593-43c7-a32c-777f7c3685d5.mp3
 image: /images/uploads/S01/Rachel-Shillcock.png

@@ -4,13 +4,13 @@ date: "2020-03-02"
 categories: 
   - "podcast"
 tags: 
-  - "cogapp"
+  - "Cogapp"
   - "education"
   - "freelancing"
-  - "kevin-cunningham"
-  - "on-the-side"
-  - "season-2"
-  - "spin-up"
+  - "Kevin Cunningham"
+  - "On The Side"
+  - "Season 2"
+  - "Spin Up"
 episode: S02E02
 enclosure: https://pinecast.com/listen/0a7b7105-c47b-4b1e-8f4e-ffa2d3df11a9.m4a
 image: /images/uploads/S02/Kevin-Cunningham.png

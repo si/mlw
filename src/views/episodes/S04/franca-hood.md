@@ -4,13 +4,13 @@ date: "2020-10-09"
 categories: 
   - "podcast"
 tags: 
-  - "clinical-hypnotherapy"
-  - "derbycounty"
-  - "franca-hood"
+  - "clinical hypnotherapy"
+  - "Derby County"
+  - "Franca Hood"
   - "parenting"
-  - "season-4"
-  - "spiritual-awakening"
-  - "zoom"
+  - "Season 4"
+  - "spiritual awakening"
+  - "Zoom"
 episode: S04E03
 enclosure: https://pinecast.com/listen/bf459ce3-9f25-4ac7-b73c-036cda020529.mp3
 image: /images/uploads/S04/Make-Life-Work-Franca-Hood.jpg

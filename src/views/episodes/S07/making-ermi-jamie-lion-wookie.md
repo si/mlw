@@ -4,13 +4,13 @@ date: "2021-09-20"
 categories: 
   - "podcast"
 tags: 
+  - "Season 7"
+  - "Jamie Lion"
+  - "Mister Wookie"
   - "autism"
   - "collaboration"
   - "finance"
-  - "fraud-detection"
-  - "jamie-lion"
-  - "mister-wookie"
-  - "season-7"
+  - "fraud detection"
 episode: S07E02
 enclosure: https://pinecast.com/listen/8808b611-b6e2-4e1b-b948-2f8175cd83e5.mp3
 image: /images/uploads/S07/Making-Ermi-with-Jamie-Lion-and-Wookie.jpg

@@ -4,12 +4,15 @@ date: "2022-02-07"
 categories: 
   - "podcast"
 tags: 
-  - "andy-yates"
+  - "Season 8"
+  - "Andy Yates"
+  - "On The Side"
   - "calendars"
-  - "on-the-side"
-  - "open-source"
-  - "season-8"
+  - "open source"
   - "sports"
+  - "Formula 1"
+  - "Alpenglow"
+  - "USA"
 episode: S08E02
 enclosure: https://pinecast.com/listen/a66aed7c-319a-4fe7-83af-c73ede2f94e4.mp3
 image: /images/uploads/S08/Making-F1-Calendar-with-Andy-Yates.jpg

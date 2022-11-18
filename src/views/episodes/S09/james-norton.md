@@ -4,12 +4,12 @@ date: "2022-07-25"
 categories: 
   - "podcast"
 tags: 
-  - "asos"
-  - "cazoo"
-  - "james-norton"
+  - "Season 9"
+  - "James Norton"
+  - "ASOS"
+  - "Cazoo"
   - "leadership"
   - "podcasts"
-  - "season-9"
 episode: S09E05
 enclosure: https://pinecast.com/listen/a1cbbbf6-bba4-4ee0-ad9c-ec2912062df0.mp3
 image: /images/uploads/S09/How-does-James-Norton-make-life-work.jpg
