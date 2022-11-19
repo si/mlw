@@ -8,7 +8,7 @@ module.exports = function (eleventyConfig) {
         collectionApi.getAll().map( item => {
             if (item.data.tags) { // handle pages that don't have tags
                 //item.data.tags.map( tag => tagsList.add(tag))
-                item.data.tags.filter(a => a.startsWith('season')).map( tag => tagsList.add(tag))
+                item.data.tags.filter(a => a.startsWith('Season')).map( tag => tagsList.add(tag))
             }
         });
         return tagsList;

@@ -4,7 +4,7 @@
     <ul class="c-nav__list">
         {% for tag in collections.seasonTagsList %}
         <li class="c-nav__list-item">
-            <a href="/tag/{{tag}}/">{{tag}}</a>
+            <a href="/tag/{{tag | slugify }}/">{{tag}}</a>
         </li>
         {% endfor %}
     </ul>
