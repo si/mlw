@@ -9,7 +9,7 @@ tags:
   - "brand design"
   - "On The Side"
   - "photography"
-  - "skillshare"
+  - "Skillshare"
   - "Women In Tech"
 episode: S07E01
 enclosure: https://pinecast.com/listen/561c16c1-0f7f-4948-84ed-f7d5eecd3a30.mp3

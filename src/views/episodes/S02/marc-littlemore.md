@@ -4,7 +4,7 @@ date: "2020-03-15"
 categories: 
   - "podcast"
 tags: 
-  - "bbc"
+  - "BBC"
   - "chatbots"
   - "house music"
   - "javascript testing"

@@ -7,7 +7,7 @@ tags:
   - "comics"
   - "illustration"
   - "New Adventures"
-  - "on the side"
+  - "On The Side"
   - "parenting"
   - "Sam Hardacre"
   - "Season 1"
