@@ -15,6 +15,7 @@ tags:
   - "Women In Tech"
 episode: S02E01
 enclosure: https://pinecast.com/listen/6102b585-f590-46a2-a810-335412f4ce32.m4a
+applePodcastsLink: https://podcasts.apple.com/gb/podcast/make-life-work/id1490247567?i=1000492144890
 image: /images/uploads/S02/Naomi-White.jpeg
 
 ---

@@ -11,6 +11,7 @@ tags:
   - "weeknotes"
 episode: S01E04
 enclosure: https://pinecast.com/listen/cbfb00aa-3a47-4d2a-9829-babb3ee23d74.mp3
+applePodcastsLink: https://podcasts.apple.com/gb/podcast/make-life-work/id1490247567?i=1000492144892
 image: /images/uploads/S01/Dan-Blundell.png
 
 ---

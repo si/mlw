@@ -14,6 +14,7 @@ tags:
   - "Skinny Drawn Boy"
 episode: S01E02
 enclosure: https://pinecast.com/listen/66132c0f-68b6-4166-b833-055487631ab8.mp3
+applePodcastsLink: https://podcasts.apple.com/gb/podcast/make-life-work/id1490247567?i=1000492144888
 image: /images/uploads/S01/Sam-Hardacre.png
 
 ---

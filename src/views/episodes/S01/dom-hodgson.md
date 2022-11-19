@@ -12,6 +12,7 @@ tags:
   - "UKDisDad"
 episode: S01E01
 enclosure: https://pinecast.com/listen/c6482f89-982f-4411-9c8b-debebeb7d099.mp3
+applePodcastsLink: https://podcasts.apple.com/gb/podcast/make-life-work/id1490247567?i=1000492144885
 image: /images/uploads/S01/Dom-Hodgson.png
 ---
 

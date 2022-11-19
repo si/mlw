@@ -13,6 +13,7 @@ tags:
   - "Spin Up"
 episode: S02E02
 enclosure: https://pinecast.com/listen/0a7b7105-c47b-4b1e-8f4e-ffa2d3df11a9.m4a
+applePodcastsLink: https://podcasts.apple.com/gb/podcast/make-life-work/id1490247567?i=1000492144899
 image: /images/uploads/S02/Kevin-Cunningham.png
 
 ---
