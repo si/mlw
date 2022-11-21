@@ -7,6 +7,9 @@ title: Make Life Work podcast
 
 I am Si Jobling – [@Si on Twitter](https://twitter.com/Si) – and, on this podcast, I talk to a selection of good friends from around the tech community about how they balance work, life, health and side projects.
 
+[![Listen on Apple Podcasts](/images/cta/applepodcasts-badge.svg "Apple Podcasts")](https://podcasts.apple.com/gb/podcast/make-life-work/id1490247567) [![Listen on Spotify](/images/cta/spotify-badge.svg "Spotify")](https://open.spotify.com/show/0s2JUvAOvjjKVgcuUGp9at) [![Listen on Google Podcasts](/images/cta/googlepodcasts-badge.svg "Google Podcasts")](https://podcasts.google.com/feed/aHR0cHM6Ly9tYWtlbGlmZXdvcmtwb2RjYXN0LmNvbS9mZWVkL3BvZGNhc3Qv) [![Amazon Podcasts](/images/cta/amazonmusic-badge.svg "Apple Podcasts")](https://music.amazon.com/podcasts/fedb693f-a959-40e1-9834-c07796bcb734/MAKE-LIFE-WORK?ref=dm_sh_vx8qo1Uy4gHK9KqCNiWgRYdQm)
+
+
 ## 🗓️ Schedule
 
 Seasons 1-9 have now concluded.
