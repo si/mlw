@@ -24,4 +24,6 @@ Seasons 1-9 have now concluded.
 
 ## ❤️ Support
 
-[Become a Patreon](https://www.patreon.com/makelifework)
+- [Donate to Si's 100 pushups challenge for Cancer Research 💜 ](https://sijobling.com/donate)
+- [Tip us on Pinecast 💰 ](https://tips.pinecast.com/jar/make-life-work)
+- [Buy Si a coffee ☕️ ](https://www.buymeacoffee.com/Sijobling)
