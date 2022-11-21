@@ -18,7 +18,7 @@ Seasons 1-9 have now concluded.
 
 ## ✉️ Keep Updated 
 
-🤔 **Follow @MakeLifeWorkPod on [Twitter](https://twitter.com/MakeLifeWorkPod), [Facebook](https://www.facebook.com/MakeLifeWorkPod) & [Instagram](https://instagram.com/MakeLifeWorkPod)** - suggest possible guests too. I’d love to invite a diverse group along to chat so I’d really appreciate your thoughts.
+🤔 **Follow @MakeLifeWorkPod on [Mastodon](https://techhub.social/makelifeworkpod), [Twitter](https://twitter.com/MakeLifeWorkPod), [Facebook](https://www.facebook.com/MakeLifeWorkPod) & [Instagram](https://instagram.com/MakeLifeWorkPod)** - suggest possible guests too. I’d love to invite a diverse group along to chat so I’d really appreciate your thoughts.
 
 👥 **Join our [On The Side Slack community](https://ontheside.network) to talk about your side projects** along with how we can help you focus and finish those ideas.
 
