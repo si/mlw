@@ -2,7 +2,8 @@ module.exports = function (eleventyConfig) {
 
     eleventyConfig.addPassthroughCopy({ "src/images" : "images"});
     eleventyConfig.addPassthroughCopy({ "src/admin" : "admin"});
-
+    eleventyConfig.addPassthroughCopy('src/_redirects');
+      
     eleventyConfig.addCollection("seasonTagsList", function(collectionApi) {
         const tagsList = new Set();
         collectionApi.getAll().map( item => {
