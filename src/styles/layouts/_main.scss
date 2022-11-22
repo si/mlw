@@ -25,3 +25,19 @@
 .post-listing li {
     margin: 0;
 }
+
+.meta {
+    span {
+        display: inline-block;
+        background: #FFF;
+        color: #54009C;
+        padding: 0.5rem;
+        transform: skewX(-10deg);
+    }
+    time {
+        display: inline-block;
+        background: rgba(255,255,255,0.2);
+        padding: 0.5rem;
+        transform: skewX(-10deg);
+    }
+}
