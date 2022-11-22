@@ -13,6 +13,7 @@ tags:
 episode: S09E05
 enclosure: https://pinecast.com/listen/a1cbbbf6-bba4-4ee0-ad9c-ec2912062df0.mp3
 applePodcastsLink: https://podcasts.apple.com/gb/podcast/how-does-james-norton-make-life-work/id1490247567?i=1000587027991
+spotifyLink: https://open.spotify.com/episode/4mknYU694fhQMRb5FrGGd3?si=ThyD4U6XQsC4sTZwP2yhfA
 image: /images/uploads/S09/How-does-James-Norton-make-life-work.jpg
 
 ---

@@ -12,6 +12,7 @@ tags:
 episode: S09E02
 enclosure: https://pinecast.com/listen/45da2dce-41d0-47a4-89af-8ca61286a6f9.mp3
 applePodcastsLink: https://podcasts.apple.com/gb/podcast/how-does-carlo-beschi-make-life-work/id1490247567?i=1000587027788
+spotifyLink: https://open.spotify.com/episode/3IX6M4QrrE59e9GU820zNV?si=TJo_Y3EPRpS1_nwGPwqQNw
 image: /images/uploads/S09/How-does-Carlo-Beschi-make-life-work.jpeg
 
 ---
