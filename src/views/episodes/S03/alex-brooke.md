@@ -14,6 +14,7 @@ tags:
   - "Women In Tech"
 episode: S03E04
 enclosure: https://pinecast.com/listen/54edb925-723a-4d5c-8aeb-5cf71c563123.m4a
+applePodcastsLink: https://podcasts.apple.com/gb/podcast/14-alex-brooke/id1490247567?i=1000587027825
 image: /images/uploads/S03/Alex-Brooke.png
 
 ---

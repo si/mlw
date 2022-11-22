@@ -12,6 +12,7 @@ tags:
   - "wellbeing"
 episode: S07E04
 enclosure: https://pinecast.com/listen/cc2bbbc2-b64f-4dd7-b88c-1edda9329f87.mp3
+applePodcastsLink: https://podcasts.apple.com/gb/podcast/making-candles-with-silvia-and-ely/id1490247567?i=1000587027963
 image: /images/uploads/S07/Making-Candles-Silvia-Ely.jpeg
 
 ---

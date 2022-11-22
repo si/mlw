@@ -13,6 +13,7 @@ tags:
   - "Zoom"
 episode: S04E03
 enclosure: https://pinecast.com/listen/bf459ce3-9f25-4ac7-b73c-036cda020529.mp3
+applePodcastsLink: https://podcasts.apple.com/gb/podcast/18-franca-hood/id1490247567?i=1000587027880
 image: /images/uploads/S04/Make-Life-Work-Franca-Hood.jpg
 
 ---

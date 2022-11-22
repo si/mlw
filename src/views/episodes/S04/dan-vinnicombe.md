@@ -14,6 +14,7 @@ tags:
   - "streaming"
 episode: S04E04
 enclosure: https://pinecast.com/listen/dbb6a1d1-166c-4917-8012-762949761f07.mp3
+applePodcastsLink: https://podcasts.apple.com/gb/podcast/19-dan-vinnicombe/id1490247567?i=1000587027995
 image: /images/uploads/S04/Make-Life-Work-Dan-Vinnicombe.jpg
 
 ---

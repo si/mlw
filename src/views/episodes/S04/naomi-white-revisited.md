@@ -14,6 +14,7 @@ tags:
   - "Women In Tech"
 episode: S04E02
 enclosure: https://pinecast.com/listen/de2bb709-663d-471b-9395-bb892641d4a8.mp3
+applePodcastsLink: https://podcasts.apple.com/gb/podcast/17-naomi-white-revisited/id1490247567?i=1000587027881
 image: /images/uploads/S04/Make-Life-Work-Naomi-White-Revisited.jpg
 
 ---

@@ -11,6 +11,7 @@ tags:
   - "software testing"
 episode: S09E04
 enclosure: https://pinecast.com/listen/63adfba2-1853-45ee-873a-e444c9b377de.mp3
+applePodcastsLink: https://podcasts.apple.com/gb/podcast/how-does-lewis-prescott-make-life-work/id1490247567?i=1000587027913
 image: /images/uploads/S09/How-does-Lewis-Prescott-make-life-work.jpg
 
 ---

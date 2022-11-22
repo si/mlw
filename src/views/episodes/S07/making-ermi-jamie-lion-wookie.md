@@ -13,6 +13,7 @@ tags:
   - "fraud detection"
 episode: S07E02
 enclosure: https://pinecast.com/listen/8808b611-b6e2-4e1b-b948-2f8175cd83e5.mp3
+applePodcastsLink: https://podcasts.apple.com/gb/podcast/making-ermi-with-jamie-lion-and-wookie/id1490247567?i=1000587027964
 image: /images/uploads/S07/Making-Ermi-with-Jamie-Lion-and-Wookie.jpg
 
 ---

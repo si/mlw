@@ -11,6 +11,7 @@ tags:
   - "Shari Muhima"
 episode: S05E04
 enclosure: https://pinecast.com/listen/93ca874c-7c34-40b7-992b-dc1e8b7df51e.mp3
+applePodcastsLink: https://podcasts.apple.com/gb/podcast/24-selfish-problem-solving/id1490247567?i=1000587027994
 image: /images/uploads/S05/Selfish-Problem-Solving.jpeg
 
 ---

@@ -10,6 +10,7 @@ tags:
   - "Season 5"
 episode: S05E02
 enclosure: https://pinecast.com/listen/e3db4bd9-f149-43d8-adf0-0d081765e1e2.mp3
+applePodcastsLink: https://podcasts.apple.com/gb/podcast/22-should-side-projects-be-a-job-requirement/id1490247567?i=1000587027791
 image: /images/uploads/S05/Should-Side-Projects-Be-A-Job-Requirement.jpg
 
 ---

@@ -11,6 +11,7 @@ tags:
   - "Northern Ireland"
 episode: S06E04
 enclosure: https://pinecast.com/listen/3b5405a7-81d6-42dd-a65d-8849e850d7a6.mp3
+applePodcastsLink: https://podcasts.apple.com/gb/podcast/making-school-of-design-with-chris-murphy/id1490247567?i=1000587027792
 image: /images/uploads/S06/Making-School-of-Design-with-Chris-Murphy.jpg
 
 ---

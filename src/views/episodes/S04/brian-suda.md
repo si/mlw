@@ -16,6 +16,7 @@ tags:
   - "writing"
 episode: S04E05
 enclosure: https://pinecast.com/listen/0be5bd9f-0a54-403b-9cd8-a94ec66c2619.mp3
+applePodcastsLink: https://podcasts.apple.com/gb/podcast/20-brian-suda/id1490247567?i=1000587027948
 image: /images/uploads/S04/Make-Life-Work-Brian-Suda.jpg
 
 ---

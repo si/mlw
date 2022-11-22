@@ -13,6 +13,7 @@ tags:
   - "Women In Tech"
 episode: S04E01
 enclosure: https://pinecast.com/listen/461b7deb-2be2-4932-a3ac-68c6e54e254b.mp3
+applePodcastsLink: https://podcasts.apple.com/gb/podcast/16-elizabeth-elcoate/id1490247567?i=1000587027794
 image: /images/uploads/S04/Make-Life-Work-Elizabeth-Elcoate.jpg
 
 ---

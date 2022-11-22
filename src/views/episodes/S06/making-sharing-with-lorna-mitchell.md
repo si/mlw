@@ -13,6 +13,7 @@ tags:
   - "Women In Tech"
 episode: S06E05
 enclosure: https://pinecast.com/listen/1ea35764-aa98-4d55-9126-2fd6b594d7b0.mp3
+applePodcastsLink: https://podcasts.apple.com/gb/podcast/making-sharing-with-lorna-mitchell/id1490247567?i=1000587027878
 image: /images/uploads/S06/Making-and-Sharing-Lorna-Mitchell.jpeg
 
 ---

@@ -14,6 +14,7 @@ tags:
   - "On The Side"
 episode: S03E05
 enclosure: https://pinecast.com/listen/174945ee-61d6-457a-a57e-66a5c528f6b4.m4a
+applePodcastsLink: https://podcasts.apple.com/gb/podcast/15-mike-street/id1490247567?i=1000587027793
 image: /images/uploads/S03/Mike-Street.png
 
 ---

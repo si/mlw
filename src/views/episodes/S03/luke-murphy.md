@@ -15,6 +15,7 @@ tags:
   - "podcasts"
 episode: S03E01
 enclosure: https://pinecast.com/listen/3b12c9c1-6f93-423a-9ac9-8574ece33ad4.m4a
+applePodcastsLink: https://podcasts.apple.com/gb/podcast/11-luke-murphy/id1490247567?i=1000587027915
 image: /images/uploads/S03/Luke-Murphy.jpeg
 
 ---

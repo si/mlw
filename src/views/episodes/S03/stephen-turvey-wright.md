@@ -11,6 +11,7 @@ tags:
   - "Stephen Turvey-Wright"
 episode: S03E02
 enclosure: https://pinecast.com/listen/1290e950-fe89-4227-99de-00633e936d04.m4a
+applePodcastsLink: https://podcasts.apple.com/gb/podcast/12-stephen-turvey-wright/id1490247567?i=1000587027882
 image: /images/uploads/S03/Stephen-Turvey-Wright.png
 
 ---

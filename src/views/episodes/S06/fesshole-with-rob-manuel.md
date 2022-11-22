@@ -12,6 +12,7 @@ tags:
   - "Twitter"
 episode: S06E01
 enclosure: https://pinecast.com/listen/2f380107-dc34-478a-8903-24104bb68321.mp3
+applePodcastsLink: https://podcasts.apple.com/gb/podcast/making-fesshole-with-rob-manuel/id1490247567?i=1000587027790
 image: /images/uploads/S06/Making-@Fesshole-with-Rob-Manuel.jpg
 
 ---

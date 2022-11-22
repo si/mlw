@@ -13,6 +13,7 @@ tags:
   - "fitness"
 episode: S08E01
 enclosure: https://pinecast.com/listen/5a531027-5a7a-4459-b44c-a8d4f49a6a2f.mp3
+applePodcastsLink: https://podcasts.apple.com/gb/podcast/making-polymathy-with-dustin-miller-polyinnovator/id1490247567?i=1000587027996
 image: /images/uploads/S08/Make-Life-Work-with-Dustin-Miller-PolyInnovator.jpg
 
 ---
