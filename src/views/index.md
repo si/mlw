@@ -12,9 +12,9 @@ I am Si Jobling and on this podcast, I talk to a selection of good friends from 
 
 ## 🗓️ Schedule
 
-Seasons 1-9 have now concluded.
+**Season 10 is coming this January!**
 
-**We are currently taking a break to focus on another podcast project - watch this space for more**
+Subscribe in your favourite podcast app or subscribe to the newsletter for updates.
 
 ## ✉️ Keep Updated 
 
