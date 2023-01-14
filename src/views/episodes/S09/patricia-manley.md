@@ -16,6 +16,7 @@ episode: S09E06
 enclosure: https://pinecast.com/listen/2ccfe851-97bb-47e5-842a-98459a700798.mp3
 applePodcastsLink: https://podcasts.apple.com/gb/podcast/how-does-patricia-manley-make-life-work/id1490247567?i=1000587027641
 spotifyLink: https://open.spotify.com/episode/5KKwE1NdVTI3TE2UbeMDhY?si=XHUT7CYYQ3W_9noK61Cnyw
+amazonLink: https://music.amazon.co.uk/podcasts/d40a1809-1b51-4800-a5b2-4a04761d92ca/episodes/e62f75d8-a275-4902-8b1f-ae6ad08385b4/make-life-work-s9e6---how-does-patricia-manley-make-life-work
 image: /images/uploads/S09/How-does-Patricia-Manley-make-life-work.jpg
 
 ---

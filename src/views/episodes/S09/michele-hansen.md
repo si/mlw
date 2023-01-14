@@ -16,6 +16,7 @@ episode: S09E01
 enclosure: https://pinecast.com/listen/68be11ec-1672-4a65-869a-3a7f24f07b1c.mp3
 applePodcastsLink: https://podcasts.apple.com/gb/podcast/how-does-michele-hansen-make-life-work/id1490247567?i=1000587027962
 spotifyLink: https://open.spotify.com/episode/7rYmQanUXwUKEAuBgDHfkv?si=4ZCrOVFNRYCVnUae1UGvIA
+amazonLink: https://music.amazon.co.uk/podcasts/d40a1809-1b51-4800-a5b2-4a04761d92ca/episodes/186f74ee-220a-4fbe-8e67-d73e66f2f7bf/make-life-work-s9e1---how-does-michele-hansen-make-life-work
 image: /images/uploads/S09/How-does-Michele-Hansen-make-life-work.jpg
 
 ---

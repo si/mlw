@@ -13,6 +13,7 @@ episode: S09E04
 enclosure: https://pinecast.com/listen/63adfba2-1853-45ee-873a-e444c9b377de.mp3
 applePodcastsLink: https://podcasts.apple.com/gb/podcast/how-does-lewis-prescott-make-life-work/id1490247567?i=1000587027913
 spotifyLink: https://open.spotify.com/episode/6vZWcPvs8Todq57zrKZopY?si=9OX0OTjSTb6tw-k-PY2X-g
+amazonLink: https://music.amazon.co.uk/podcasts/d40a1809-1b51-4800-a5b2-4a04761d92ca/episodes/8fc033ed-ee48-4c1e-b7c0-9d4fbac2a777/make-life-work-s9e4---how-does-lewis-prescott-make-life-work
 image: /images/uploads/S09/How-does-Lewis-Prescott-make-life-work.jpg
 
 ---
