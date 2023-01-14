@@ -41,3 +41,15 @@
         transform: skewX(-10deg);
     }
 }
+
+.embeddable-buttondown-form {
+    max-width: 90%;
+    width: 670px;
+    text-align: center;
+
+    legend {
+        font-size: 1.2rem;
+        font-weight: bold;    
+        margin-bottom: 1rem;
+    }
+}
