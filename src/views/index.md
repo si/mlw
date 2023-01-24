@@ -12,7 +12,7 @@ I am Si Jobling and on this podcast, I talk to a selection of good friends from 
 
 ## 🗓️ Schedule
 
-**Season 10 is coming this January!**
+**Season 10 is coming January 2023!**
 
 Subscribe in your favourite podcast app or subscribe to the newsletter for updates.
 
