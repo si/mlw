@@ -17,8 +17,7 @@ Use discount code `r-b0b82e` for _40% off first 4 months_
 ## Title music “Static” by [Ramzoid](https://www.youtube.com/channel/UCecrxw9xtxME6o5_mz4TtOA)
 Royalty-free from [Youtube’s Audio Library](https://www.youtube.com/audiolibrary/music?nv=1)
 
-## Recorded with [Squadcast](https://squadcast.fm/?ref=si)
-Get [7-day free trial](https://squadcast.fm/?ref=si)
+## Recorded with [Zencastr](https://zencastr.com)
 
 ## Stickers from [StickerMule](https://www.stickermule.com/uk/unlock?ref_id=0760670701&utm_medium=link&utm_source=invite)
 Get [£8 off your first order](https://www.stickermule.com/uk/unlock?ref_id=0760670701&utm_medium=link&utm_source=invite)
