@@ -10,10 +10,7 @@ tags:
   - "parenting"
   - "goals"
 episode: S10E01
-enclosure: https://pinecast.com/listen/9fb62f5b-c773-4fe8-9d53-06515e7246ee.mp3
-applePodcastsLink: https://podcasts.apple.com/gb/podcast/how-does-aj-wilson-make-life-work/id1490247567?i=1000587027945
-spotifyLink: https://open.spotify.com/episode/4gsnKcON82PRerYW905y9P?si=Kl9XbM9iQtmT6IOPv7LV0w
-amazonLink: https://music.amazon.co.uk/podcasts/d40a1809-1b51-4800-a5b2-4a04761d92ca/episodes/ee87a40b-1b59-47a3-bcca-4cc54edc8204/make-life-work-s9e3---how-does-aj-wilson-make-life-work
+enclosure: https://pinecast.com/listen/04a3fa6a-fd13-4a0e-8ce4-e63948b9f3cd.mp3
 image: /images/uploads/S10/On-The-Side-Reunion-Mike-Street-Sam-Hardacre.jpg
 
 ---
