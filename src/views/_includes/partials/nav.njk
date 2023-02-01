@@ -1,10 +1,11 @@
 <nav class="l-main__nav c-nav">
     <a href="/" class="c-nav__logo"><img src="/images/design/make-life-work-512.png" alt="Make Life Work" /></a>
 
-    <ul class="c-nav__list">
-        {% for tag in collections.seasonTagsList %}
+    <ul class="c-nav__list">    
+        {% for tag in [1, 2, 3, 4, 5, 6, 7, 8, 9, 10] %}
+        {% set title = ["Season ", tag] | join %}
         <li class="c-nav__list-item">
-            <a href="/tag/{{tag | slugify }}/">{{tag}}</a>
+            <a href="/tag/{{title | slugify }}/">{{title}}</a>
         </li>
         {% endfor %}
     </ul>
