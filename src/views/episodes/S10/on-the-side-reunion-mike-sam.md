@@ -12,6 +12,8 @@ tags:
 episode: S10E01
 enclosure: https://pinecast.com/listen/04a3fa6a-fd13-4a0e-8ce4-e63948b9f3cd.mp3
 image: /images/uploads/S10/On-The-Side-Reunion-Mike-Street-Sam-Hardacre.jpg
+applePodcastsLink: https://podcasts.apple.com/gb/podcast/on-the-side-reunion-with-mike-sam/id1490247567?i=1000597442073
+spotifyLink: https://open.spotify.com/episode/0US4QAy7XA7ADANlZdfk8V?si=82mBTFIwRASCdABMzrp0Tw
 
 ---
 
