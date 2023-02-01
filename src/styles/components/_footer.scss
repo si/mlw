@@ -9,6 +9,11 @@
     
     a {
         opacity: 50%;
+        translate: all 1s ease;
+
+        &:active, &:hover {
+            opacity: 100%;
+        }
     }
 }
 
