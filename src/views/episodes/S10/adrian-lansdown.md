@@ -11,11 +11,11 @@ tags:
   - "productivity"
 episode: S10E02
 enclosure: https://pinecast.com/listen/63bc6c5b-dc2a-4b25-999a-09a0b4407b14.mp3
-image: /images/uploads/S10/On-The-Side-Reunion-Mike-Street-Sam-Hardacre.jpg
+image: /images/uploads/S10/Adrian-Lansdown.jpg
 
 ---
 
-The one when Si talks to Adrian about organising kids time with Excel, and not getting sucked into social media. 
+The one when Si talks to Adrian about organising kids time with Excel, creating the ultimate home cinema experience and not getting sucked into social media. 
 
 ## Show Notes
 
