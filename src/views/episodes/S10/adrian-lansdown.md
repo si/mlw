@@ -1,5 +1,5 @@
 ---
-title: "On The Side Reunion with Mike & Sam"
+title: "Home automation & lists of things with Adrian Lansdown"
 date: "2023-02-14"
 categories: 
   - "podcast"
