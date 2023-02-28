@@ -11,7 +11,7 @@ tags:
   - "productivity"
 episode: S10E03
 enclosure: https://pinecast.com/listen/63bc6c5b-dc2a-4b25-999a-09a0b4407b14.mp3
-image: /images/uploads/S10/Adrian-Lansdown.jpg
+image: /images/uploads/S10/Montserrat-Cano.jpg
 
 ---
 
