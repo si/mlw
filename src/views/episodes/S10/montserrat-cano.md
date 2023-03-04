@@ -6,16 +6,18 @@ categories:
 tags: 
   - "Season 10"
   - "Montserrat Cano"
-  - "women in tech"
+  - "Women In Tech"
   - "freelancing"
   - "productivity"
 episode: S10E03
-enclosure: https://pinecast.com/listen/63bc6c5b-dc2a-4b25-999a-09a0b4407b14.mp3
+enclosure: https://pinecast.com/listen/c2510be5-acaf-4d4c-ad00-f6f709099716.mp3
+applePodcastsLink: https://podcasts.apple.com/gb/podcast/using-communities-and-taking-breaks-with-montserrat-cano/id1490247567?i=1000602322698
+spotifyLink: https://open.spotify.com/episode/76h9Sz6FpcKCGz2BYqqEer?si=vOgkVqZRRi2RQ4REkF3ZUA
 image: /images/uploads/S10/Montserrat-Cano.jpg
 
 ---
 
-The one when Si talks to Montserrat about . 
+The one when Si talks to Montserrat about working in isolation, enjoying the people around her and the joy of local entertainment.
 
 ## Show Notes
 
