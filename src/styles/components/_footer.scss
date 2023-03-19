@@ -6,7 +6,17 @@
     border-top: 5px solid rgba(255,255,255,0.2);
     color: rgba(255,255,255,0.3);
     text-align: center;
-    
+
+    fieldset {
+        border-color: rgba(255,255,255,0.2);
+        border-width: 5px;
+    }
+
+    input,
+    label {
+        padding: 0.6rem;
+    }
+
     a {
         opacity: 50%;
         translate: all 1s ease;
