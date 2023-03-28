@@ -30,3 +30,7 @@ The one when Si talks to Andy and Dan about shouting at clouds, working with 80s
 
 - [Emma Bodger - TV and film producer](https://emmabodger.com/)
 - [Cheeky Condiment](https://cheekycondiment.shop) - Andy's latest project, launches 1 April (no joke!)
+
+## Credits
+
+- Guest edited by [Adrian Lansdown](https://adrianlansdown.com)
