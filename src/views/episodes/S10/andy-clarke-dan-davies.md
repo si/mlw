@@ -25,8 +25,8 @@ The one when Si talks to Andy and Dan about shouting at clouds, working with 80s
 - [Dan on Mastodon](https://mastodon.online/@danjdavies)
 - [Malarkey on Mastodon](https://mastodon.social/@malarkey)
 
-- [Match of the Day on GB news?]()
-- [Mastodon toot about designs people hate?]()
+- [Match of the Day alternative on GB News](https://twitter.com/dinosofos/status/1634689700404314114?s=20)
+- [Andy&#x27;s toot about designs people hate](https://mastodon.social/@malarkey/110016650733584622)
 
 - [Emma Bodger - TV and film producer](https://emmabodger.com/)
 - [Cheeky Condiment](https://cheekycondiment.shop) - Andy's latest project, launches 1 April (no joke!)
