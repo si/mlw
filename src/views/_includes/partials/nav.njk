@@ -1,7 +1,9 @@
 <nav class="l-main__nav c-nav">
     <a href="/" class="c-nav__logo"><img src="/images/design/make-life-work-512.png" alt="Make Life Work" /></a>
 
-    <ul class="c-nav__list">    
+    <a href="#mySidenav" onclick="openNav()">Menu</a>
+    <ul id="mySidenav" class="c-nav__list sidenav">    
+        <li><a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a></li>
         {% for tag in [1, 2, 3, 4, 5, 6, 7, 8, 9, 10] %}
         {% set title = ["Season ", tag] | join %}
         <li class="c-nav__list-item">
@@ -10,3 +12,16 @@
         {% endfor %}
     </ul>
 </nav>
+
+<script>
+/* Set the width of the side navigation to 250px */
+function openNav() {
+  document.getElementById("mySidenav").style.width = "50%";
+
+}
+
+/* Set the width of the side navigation to 0 */
+function closeNav() {
+  document.getElementById("mySidenav").style.width = "0";
+}
+</script>
