@@ -5,11 +5,6 @@ eleventyComputed:
 ---
 <div itemscope itemtype="http://schema.org/PublicationIssue" class="interviewSingle podcastSingle">
 
-	{% if image %}
-		{% include "banner.njk" %}
-	{% endif %}
-
-
 	<p class="meta">
 		<span itemprop="issueNumber">#{{ episode }}</span>
 		<time datetime="{{ date }}" itemprop="datePublished">
@@ -17,32 +12,35 @@ eleventyComputed:
 		</time>
 	</p>
 
+	{% if image %}
+		{% include "banner.njk" %}
+	{% endif %}
+
+
 	<h1 itemprop="headline">{{ title }}</h1>
 
 	<div class="intro" itemprop="abstract">
 		{{ intro | safe }}
 	</div>
 	<div class="podcastLinks">
+
+		<h2>Listen to episode <strong>{{ episode }}</strong></h2>
+
 		{%- if enclosure %}
 		<audio controls>
   			<source src="{{ enclosure }}" type="audio/mpeg">
 		</audio>
 		{%- endif %}
 
-		<p>Listen to <strong>{{ episode }}</strong> on:</p>
 		<div>
 			{%- if applePodcastsLink %}<a href="{{ applePodcastsLink }}" class="imageLink"><img itemprop="image" src="/images/assets/cta/applepodcasts-badge.svg" width="167" height="44" alt="Listen to {{ episode }} on Apple Podcasts"></a>{%- endif %}
 			{%- if spotifyLink %}<a href="{{ spotifyLink }}" class="imageLink"><img itemprop="image" src="/images/assets/cta/spotify-badge.svg" width="167" height="44" alt="Listen to {{ episode }} on Spotify"></a>{%- endif %}
 			{%- if googlePodcastsLink %}<a href="{{ googlePodcastsLink }}" class="imageLink"><img itemprop="image" src="/images/assets/cta/googlepodcasts-badge.svg" width="167" height="44" alt="Listen to {{ episode }} on Google Podcasts"></a>{%- endif %}
 			{%- if amazonLink %}<a href="{{ amazonLink }}" class="imageLink"><img itemprop="image" src="/images/assets/cta/amazonmusic-badge.svg" width="167" height="44" alt="Listen to {{ episode }} on Amazon Music"></a>{%- endif %}
 		</div>
-		<p><small>Podcast player not here? <a href="/podcasts/subscriptions/">Check out our subscriptions page</a></p>
+		<p><small><a href="/subscribe/">Check out the subscribe options</a></p>
 		
 	</div>
-
-	{%- if acastEpisode %}
-		<iframe src="https://embed.acast.com/62d9b3f5f39c44001194bc1e/{{ acastEpisode }}?cover=false" frameBorder="0" width="100%" height="200px"></iframe>
-	{%- endif %}
 
 	<div>
 		{{ content | safe }}
