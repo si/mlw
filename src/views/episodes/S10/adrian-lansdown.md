@@ -10,14 +10,13 @@ tags:
   - "home automation"
   - "productivity"
 episode: S10E02
-enclosure: https://pinecast.com/listen/63bc6c5b-dc2a-4b25-999a-09a0b4407b14.mp3
 image: /images/uploads/S10/Adrian-Lansdown.jpg
+intro: The one when Si talks to Adrian about organising kids time with Excel, creating the ultimate home cinema experience and not getting sucked into social media. 
+enclosure: https://pinecast.com/listen/63bc6c5b-dc2a-4b25-999a-09a0b4407b14.mp3
 applePodcastsLink: https://podcasts.apple.com/gb/podcast/make-life-work/id1490247567?i=1000599592068
 spotifyLink: https://open.spotify.com/episode/5uCGMeu3nL5ArIedB98wMX?si=mw7a6C0NT-CaE7VjmOHSJA
 
 ---
-
-The one when Si talks to Adrian about organising kids time with Excel, creating the ultimate home cinema experience and not getting sucked into social media. 
 
 ## Show Notes
 
