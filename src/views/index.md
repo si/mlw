@@ -5,20 +5,20 @@ title: Make Life Work podcast
 ---
 ## Podcast about balancing work, life and side projects.
 
-I am Si Jobling and on this podcast, I talk to a selection of good friends from around the tech community about how they balance work, life and any side projects.
+Your host and producer Si Jobling talks to people from around the tech community about how they balance work, life and any side projects.
 
 [![Listen on Apple Podcasts](/images/assets/cta/applepodcasts-badge.svg "Apple Podcasts")](https://podcasts.apple.com/gb/podcast/make-life-work/id1490247567) [![Listen on Spotify](/images/assets/cta/spotify-badge.svg "Spotify")](https://open.spotify.com/show/0s2JUvAOvjjKVgcuUGp9at) [![Listen on Google Podcasts](/images/assets/cta/googlepodcasts-badge.svg "Google Podcasts")](https://podcasts.google.com/feed/aHR0cHM6Ly9tYWtlbGlmZXdvcmtwb2RjYXN0LmNvbS9mZWVkL3BvZGNhc3Qv) [![Amazon Podcasts](/images/assets/cta/amazonmusic-badge.svg "Apple Podcasts")](https://music.amazon.com/podcasts/fedb693f-a959-40e1-9834-c07796bcb734/MAKE-LIFE-WORK?ref=dm_sh_vx8qo1Uy4gHK9KqCNiWgRYdQm)
 
 
 ## 🗓️ Schedule
 
-**Season 10 is now in progress**
+**[Season 10](/tag/season-10/) has now finished**
 
 Subscribe in your favourite podcast app or subscribe to the newsletter for updates.
 
 ## ✉️ Keep Updated 
 
-🤔 **Follow @MakeLifeWorkPod on [Mastodon](https://techhub.social/makelifeworkpod), [Twitter](https://twitter.com/MakeLifeWorkPod), [Facebook](https://www.facebook.com/MakeLifeWorkPod) & [Instagram](https://instagram.com/MakeLifeWorkPod)** - suggest possible guests too. I’d love to invite a diverse group along to chat so I’d really appreciate your thoughts.
+🤔 **Follow @MakeLifeWorkPod on [Mastodon](https://techhub.social/makelifeworkpod), [Twitter](https://twitter.com/MakeLifeWorkPod), [Facebook](https://www.facebook.com/MakeLifeWorkPod) & [Instagram](https://instagram.com/MakeLifeWorkPod)** - suggest possible guests too. I’d love to invite a diverse group along to chat so I’d really appreciate your ideas.
 
 👥 **Join our [On The Side Slack community](https://ontheside.network) to talk about your side projects** along with how we can help you focus and finish those ideas.
 
