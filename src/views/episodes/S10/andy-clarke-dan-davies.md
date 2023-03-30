@@ -12,6 +12,8 @@ tags:
 episode: S10E05
 enclosure: https://pinecast.com/listen/8e23e12a-643d-4c1d-94c6-67e71332ee1a.mp3
 image: /images/uploads/S10/Andy-Clarke-Dan-Davies.jpg
+applePodcastsLink: https://podcasts.apple.com/gb/podcast/on-the-side-reunion-with-mike-sam/id1490247567?i=1000597442073
+spotifyLink: https://open.spotify.com/episode/0US4QAy7XA7ADANlZdfk8V?si=82mBTFIwRASCdABMzrp0Tw
 
 ---
 
