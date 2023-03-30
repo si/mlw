@@ -10,14 +10,13 @@ tags:
   - "Dan Davies"
   - "web design"
 episode: S10E05
-enclosure: https://pinecast.com/listen/8e23e12a-643d-4c1d-94c6-67e71332ee1a.mp3
+intro: The one when Si talks to Andy and Dan about shouting at clouds, working with 80s TV in the background and road trips to Roswell and Walsall.
 image: /images/uploads/S10/Andy-Clarke-Dan-Davies.jpg
-applePodcastsLink: https://podcasts.apple.com/gb/podcast/on-the-side-reunion-with-mike-sam/id1490247567?i=1000597442073
-spotifyLink: https://open.spotify.com/episode/0US4QAy7XA7ADANlZdfk8V?si=82mBTFIwRASCdABMzrp0Tw
+enclosure: https://pinecast.com/listen/8e23e12a-643d-4c1d-94c6-67e71332ee1a.mp3
+applePodcastsLink: https://podcasts.apple.com/gb/podcast/the-lost-joy-of-web-design-with-andy-clarke-dan-davies/id1490247567?i=1000606332316
+spotifyLink: https://open.spotify.com/episode/5nrN9v1HRKCVHugyFrvnx1?si=zLzd13J3S-2W_3Z_5Ta9Tg
 
 ---
-
-The one when Si talks to Andy and Dan about shouting at clouds, working with 80s TV in the background and road trips to Roswell and Walsall.
 
 ## Show Notes
 
