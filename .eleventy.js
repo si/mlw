@@ -1,4 +1,10 @@
+const { DateTime } = require("luxon");
+
 module.exports = function (eleventyConfig) {
+
+    eleventyConfig.addFilter("asPostDate", (dateObj) => {
+        return DateTime.fromJSDate(dateObj).setLocale('en-gb').toLocaleString(DateTime.DATE_MED_WITH_WEEKDAY);
+    });
 
     eleventyConfig.addPassthroughCopy({ "src/images" : "images" });
     eleventyConfig.addPassthroughCopy({ "src/admin" : "admin" });

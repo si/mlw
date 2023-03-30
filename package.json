@@ -29,5 +29,8 @@
   },
   "browserslist": [
     "defaults"
-  ]
+  ],
+  "devDependencies": {
+    "luxon": "^3.3.0"
+  }
 }

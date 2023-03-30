@@ -5,7 +5,7 @@
 		</h3>
 		<p class="date">
 			{% if entry.date %}
-				Posted on <strong>{{ entry.date }}</strong>.
+				Posted on <strong>{{ entry.date | asPostDate }}</strong>.
 			{% endif %}
 		</p>
 
