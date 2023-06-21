@@ -7,8 +7,10 @@ title: Make Life Work podcast
 
 Your host and producer Si Jobling talks to people from around the tech community about how they balance work, life and any side projects.
 
-[![Listen on Apple Podcasts](/images/assets/cta/applepodcasts-badge.svg "Apple Podcasts")](https://podcasts.apple.com/gb/podcast/make-life-work/id1490247567) [![Listen on Spotify](/images/assets/cta/spotify-badge.svg "Spotify")](https://open.spotify.com/show/0s2JUvAOvjjKVgcuUGp9at) [![Listen on Google Podcasts](/images/assets/cta/googlepodcasts-badge.svg "Google Podcasts")](https://podcasts.google.com/feed/aHR0cHM6Ly9tYWtlbGlmZXdvcmtwb2RjYXN0LmNvbS9mZWVkL3BvZGNhc3Qv) [![Amazon Podcasts](/images/assets/cta/amazonmusic-badge.svg "Apple Podcasts")](https://music.amazon.com/podcasts/fedb693f-a959-40e1-9834-c07796bcb734/MAKE-LIFE-WORK?ref=dm_sh_vx8qo1Uy4gHK9KqCNiWgRYdQm)
 
+<a href="https://podcasts.apple.com/gb/podcast/make-life-work/id1490247567"><img src="/images/listen-apple-podcasts-659x160.png" alt="Listen on Apple Podcasts" width="200" /></a> <a href="https://open.spotify.com/show/0s2JUvAOvjjKVgcuUGp9at"><img src="/images/listen-spotify-podcast-660x160.png" alt="Listen on Spotify" width="200" /></a> <a href="https://fountain.fm/show/y0nZgt8h1XxDfB9zTEr4"><img src="/images/listen-fountain-660x160.png" alt="Listen and earn Bitcoin on Fountain" width="200" /></a>
+
+<small>[(Other platforms are available)](/subscribe/)</small>
 
 ## 🗓️ Schedule
 
