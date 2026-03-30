@@ -17,7 +17,11 @@
     </script>
     <meta property="og:title" content="Make Life Work podcast with Si Jobling" />
     <meta property="og:description" content="Talking to people around tech about how they balance work life balance with any side projects" />
-    <meta property="og:image" content="/images/design/make-life-work-512.png" />
+    {% if image %}
+    <meta property="og:image" content="{{ image }}" />
+    {% else %}
+    <meta property="og:image" content="/images/design/make-life-work-square.png" />
+    {% endif %}
 </head>
 <body class="l-main">
 
