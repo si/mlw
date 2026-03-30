@@ -15,8 +15,8 @@
         posthog.init('phc_tjaUGGOPEyd2jR0sABuK5nPN76dZwZQrXq1CVVr6d6y',{api_host:'https://eu.i.posthog.com', person_profiles: 'identified_only' // or 'always' to create profiles for anonymous users as well
             })
     </script>
-    <meta property="og:title" content="Make Life Work podcast with Si Jobling" />
-    <meta property="og:description" content="Talking to people around tech about how they balance work life balance with any side projects" />
+    <meta property="og:title" content="{% if title %}{{ title }}{% else %}Make Life Work podcast with Si Jobling{% endif %}" />
+    <meta property="og:description" content="{% if intro %}{{ intro }}{% else %}Talking to people around tech about how they balance work life balance with any side projects{% endif %}" />
     {% if image %}
     <meta property="og:image" content="{{ image }}" />
     {% else %}
